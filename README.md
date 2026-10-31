@@ -9,9 +9,9 @@
 # Awesome Claude Code
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Resources](https://img.shields.io/badge/resources-555-d97757?style=flat-square)](#contents)
+[![Resources](https://img.shields.io/badge/resources-556-d97757?style=flat-square)](#contents)
 [![Website](https://img.shields.io/badge/website-online-2ea44f?style=flat-square)](https://tomcatmew.github.io/awesome-Claude-code/)
-[![Updated](https://img.shields.io/badge/updated-2026--10--26-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
+[![Updated](https://img.shields.io/badge/updated-2026--10--31-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
 [![Stars](https://img.shields.io/github/stars/tomcatmew/awesome-Claude-code?style=flat-square&color=yellow)](https://github.com/tomcatmew/awesome-Claude-code/stargazers)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
 
@@ -26,7 +26,7 @@ If this list saves you time, a ⭐ helps other Claude Code users find it. Spotte
 
 </div>
 
-> **555** resources · **41** categories · **364** GitHub repos with **9.0M** total stars · updated **2026-10-26**
+> **556** resources · **41** categories · **364** GitHub repos with **9.0M** total stars · updated **2026-10-31**
 >
 > **Legend:** 🏆 top pick · ⭐ GitHub stars (refreshed weekly) · 🇨🇳 Chinese · 🇯🇵 Japanese · 🇰🇷 Korean · 🗄️ archived · 📘 docs · 📝 article · 🎓 course · 📺 video · 💬 community
 
@@ -60,8 +60,8 @@ New to Claude Code? These are the resources most people end up using.
   - [Frameworks & Methodologies](#frameworks) <sub>19</sub> · [Multi-Agent & Parallel Sessions](#orchestration) <sub>26</sub> · [Memory & Context](#memory-context) <sub>19</sub>
 - 🛠️ [Tooling](#tooling) <sub>79</sub>
   - [Usage & Cost Monitoring](#usage-monitoring) <sub>10</sub> · [Statuslines](#statusline) <sub>8</sub> · [GUI, Web & Mobile Clients](#gui-clients) <sub>10</sub> · [IDE & Editor Integrations](#ide) <sub>12</sub> · [Model Routers & Provider Switchers](#routers-proxies) <sub>12</sub> · [Sandboxing & Containers](#sandbox) <sub>9</sub> · [CI/CD & GitHub Automation](#ci-cd) <sub>6</sub> · [Logs, Transcripts & Observability](#observability) <sub>12</sub>
-- 🔌 [Model Context Protocol (MCP)](#mcp) <sub>81</sub>
-  - [MCP Servers](#mcp-servers) <sub>55</sub> · [MCP SDKs & Dev Tools](#mcp-dev) <sub>15</sub> · [MCP Directories & Registries](#mcp-directories) <sub>11</sub>
+- 🔌 [Model Context Protocol (MCP)](#mcp) <sub>82</sub>
+  - [MCP Servers](#mcp-servers) <sub>56</sub> · [MCP SDKs & Dev Tools](#mcp-dev) <sub>15</sub> · [MCP Directories & Registries](#mcp-directories) <sub>11</sub>
 - 🤖 [Building with Claude](#building) <sub>73</sub>
   - [Agent SDK Projects](#agent-sdk) <sub>10</sub> · [Computer & Browser Use](#computer-use) <sub>10</sub> · [Coding Agents with Claude Support](#coding-agents) <sub>18</sub> · [Chat Clients & Apps](#chat-clients) <sub>18</sub> · [API Libraries & Dev Tools](#api-tools) <sub>17</sub>
 - 📚 [Learning](#learning) <sub>70</sub>
@@ -508,6 +508,7 @@ _The open protocol Claude uses to talk to tools and data. Popular servers, SDKs 
 - 🏆 **[Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)** ⭐ 54.2k — Official Chrome DevTools MCP server letting coding agents control and inspect live Chrome: performance traces, network, console, screenshots.
 - 🏆 **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** ⭐ 38.6k — Microsoft's official browser automation MCP server using Playwright accessibility snapshots instead of screenshots for fast, deterministic control.
 - [Chrome MCP Server (mcp-chrome)](https://github.com/hangwin/mcp-chrome) 🇨🇳 ⭐ 12.5k — Chrome extension that exposes your everyday browser, with logins and settings, as an MCP server for automation and semantic tab search.
+- [agent-qa](https://vostride.com) 🌐 — MCP server for natural-language web, Android, and iOS testing, with persistent memory and validated self-improvement.
 
 **🔍 Docs, search & web**
 

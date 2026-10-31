@@ -9,9 +9,9 @@
 # Awesome Claude Code
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Resources](https://img.shields.io/badge/resources-555-d97757?style=flat-square)](#contents)
+[![Resources](https://img.shields.io/badge/resources-556-d97757?style=flat-square)](#contents)
 [![Website](https://img.shields.io/badge/website-online-2ea44f?style=flat-square)](https://tomcatmew.github.io/awesome-Claude-code/)
-[![Updated](https://img.shields.io/badge/updated-2026--10--26-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
+[![Updated](https://img.shields.io/badge/updated-2026--10--31-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
 [![Stars](https://img.shields.io/github/stars/tomcatmew/awesome-Claude-code?style=flat-square&color=yellow)](https://github.com/tomcatmew/awesome-Claude-code/stargazers)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
 
@@ -26,7 +26,7 @@
 
 </div>
 
-> 共 **555** 个资源 · **41** 个分类 · **364** 个 GitHub 仓库，合计 **9.0M** Star · 更新于 **2026-10-26**
+> 共 **556** 个资源 · **41** 个分类 · **364** 个 GitHub 仓库，合计 **9.0M** Star · 更新于 **2026-10-31**
 >
 > **图例：** 🏆 精选 · ⭐ GitHub Star（每周自动更新）· 🇨🇳 国人/中文 · 🇯🇵 日本 · 🇰🇷 韩国 · 🗄️ 已归档 · 📘 文档 · 📝 文章 · 🎓 课程 · 📺 视频 · 💬 社区
 
@@ -60,8 +60,8 @@
   - [框架与方法论](#frameworks) <sub>19</sub> · [多代理与并行会话](#orchestration) <sub>26</sub> · [记忆与上下文](#memory-context) <sub>19</sub>
 - 🛠️ [工具链](#tooling) <sub>79</sub>
   - [用量与成本监控](#usage-monitoring) <sub>10</sub> · [状态栏 Statusline](#statusline) <sub>8</sub> · [图形界面、Web 与移动端](#gui-clients) <sub>10</sub> · [IDE 与编辑器集成](#ide) <sub>12</sub> · [模型路由与供应商切换](#routers-proxies) <sub>12</sub> · [沙箱与容器](#sandbox) <sub>9</sub> · [CI/CD 与 GitHub 自动化](#ci-cd) <sub>6</sub> · [日志、会话记录与可观测性](#observability) <sub>12</sub>
-- 🔌 [模型上下文协议 MCP](#mcp) <sub>81</sub>
-  - [MCP 服务器](#mcp-servers) <sub>55</sub> · [MCP SDK 与开发工具](#mcp-dev) <sub>15</sub> · [MCP 目录与注册表](#mcp-directories) <sub>11</sub>
+- 🔌 [模型上下文协议 MCP](#mcp) <sub>82</sub>
+  - [MCP 服务器](#mcp-servers) <sub>56</sub> · [MCP SDK 与开发工具](#mcp-dev) <sub>15</sub> · [MCP 目录与注册表](#mcp-directories) <sub>11</sub>
 - 🤖 [基于 Claude 构建](#building) <sub>73</sub>
   - [Agent SDK 项目](#agent-sdk) <sub>10</sub> · [电脑与浏览器操控](#computer-use) <sub>10</sub> · [支持 Claude 的编程代理](#coding-agents) <sub>18</sub> · [聊天客户端与应用](#chat-clients) <sub>18</sub> · [API 库与开发工具](#api-tools) <sub>17</sub>
 - 📚 [学习资源](#learning) <sub>70</sub>
@@ -508,6 +508,7 @@ _Claude 连接工具与数据的开放协议：热门服务器、SDK 与目录�
 - 🏆 **[Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)** ⭐ 54.2k — Chrome DevTools 官方 MCP 服务器，让编码智能体控制并检查真实 Chrome：性能追踪、网络、控制台和截图。
 - 🏆 **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** ⭐ 38.6k — 微软官方浏览器自动化 MCP 服务器，基于 Playwright 无障碍快照而非截图，实现快速、确定性的控制。
 - [Chrome MCP Server (mcp-chrome)](https://github.com/hangwin/mcp-chrome) 🇨🇳 ⭐ 12.5k — Chrome 扩展，将你日常使用的浏览器（保留登录态与设置）暴露为 MCP 服务器，支持自动化和语义标签页搜索。
+- [agent-qa](https://vostride.com) 🌐 — 支持 Web、Android 和 iOS 自然语言测试的 MCP 服务器，具备持久记忆引擎与经验证的自我改进。
 
 **🔍 文档、搜索与网页**
 

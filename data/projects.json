@@ -8805,5 +8805,24 @@
       "resources"
     ],
     "region": "cn"
+  },
+  {
+    "name": "agent-qa",
+    "url": "https://vostride.com",
+    "category": "mcp-servers",
+    "type": "website",
+    "desc": {
+      "en": "MCP server for natural-language web, Android, and iOS testing, with persistent memory and validated self-improvement.",
+      "zh": "支持 Web、Android 和 iOS 自然语言测试的 MCP 服务器，具备持久记忆引擎与经验证的自我改进。"
+    },
+    "tags": [
+      "testing",
+      "mcp",
+      "browser",
+      "mobile",
+      "memory"
+    ],
+    "featured": false,
+    "group": "browser"
   }
 ]
