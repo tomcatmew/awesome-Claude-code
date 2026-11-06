@@ -4866,6 +4866,26 @@
     "group": "data"
   },
   {
+    "name": "DC Hub",
+    "url": "https://github.com/azmartone67/dchub-mcp-server",
+    "category": "mcp-servers",
+    "type": "repo",
+    "desc": {
+      "en": "Live data layer for data-center site selection; Data Center Power Index (DCPI) scores grid power across 300+ markets daily.",
+      "zh": "数据中心选址的实时数据层；数据中心电力指数（DCPI）每日评估 300+ 市场的电网供电能力。"
+    },
+    "tags": [
+      "data-center",
+      "energy",
+      "grid",
+      "power",
+      "site-selection",
+      "remote"
+    ],
+    "featured": false,
+    "group": "data"
+  },
+  {
     "name": "arXiv MCP Server",
     "url": "https://github.com/blazickjp/arxiv-mcp-server",
     "category": "mcp-servers",
