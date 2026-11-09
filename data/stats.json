@@ -1,327 +1,327 @@
 {
   "0xPlaygrounds/rig": {
     "canonical": "0xPlaygrounds/rig",
-    "stars": 9042,
-    "forks": 1006,
+    "stars": 9099,
+    "forks": 1019,
     "archived": false,
-    "pushed_at": "2026-11-02T09:33:27Z",
+    "pushed_at": "2026-11-09T11:44:39Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "0xfurai/claude-code-subagents": {
     "canonical": "0xfurai/claude-code-subagents",
-    "stars": 1020,
+    "stars": 1023,
     "forks": 187,
     "archived": false,
-    "pushed_at": "2025-10-15T19:50:24Z",
+    "pushed_at": "2026-11-07T13:34:14Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "1rgs/claude-code-proxy": {
     "canonical": "1rgs/claude-code-proxy",
-    "stars": 3766,
-    "forks": 487,
+    "stars": 3764,
+    "forks": 486,
     "archived": false,
     "pushed_at": "2026-06-23T02:46:08Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "567-labs/instructor": {
     "canonical": "567-labs/instructor",
-    "stars": 14089,
-    "forks": 1349,
+    "stars": 14102,
+    "forks": 1365,
     "archived": false,
-    "pushed_at": "2026-10-26T22:01:02Z",
+    "pushed_at": "2026-11-06T23:13:01Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "AgentOps-AI/tokencost": {
     "canonical": "AgentOps-AI/tokencost",
-    "stars": 2003,
+    "stars": 2005,
     "forks": 108,
     "archived": false,
     "pushed_at": "2025-09-05T08:10:10Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "AgriciDaniel/claude-obsidian": {
     "canonical": "AgriciDaniel/claude-obsidian",
-    "stars": 16066,
-    "forks": 1587,
+    "stars": 16281,
+    "forks": 1598,
     "archived": false,
     "pushed_at": "2026-10-25T22:24:31Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Aider-AI/aider": {
     "canonical": "Aider-AI/aider",
-    "stars": 49898,
-    "forks": 5126,
+    "stars": 50030,
+    "forks": 5145,
     "archived": false,
     "pushed_at": "2026-05-22T14:02:20Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "AndyMik90/Aperant": {
     "canonical": "AndyMik90/Aperant",
-    "stars": 14585,
-    "forks": 1893,
+    "stars": 14596,
+    "forks": 1890,
     "archived": false,
     "pushed_at": "2026-06-14T08:27:00Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ArcReel/ArcReel": {
     "canonical": "ArcReel/ArcReel",
-    "stars": 6079,
-    "forks": 1197,
+    "stars": 6351,
+    "forks": 1267,
     "archived": false,
-    "pushed_at": "2026-11-02T10:55:25Z",
+    "pushed_at": "2026-11-09T11:46:56Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "BayramAnnakov/claude-reflect": {
     "canonical": "BayramAnnakov/claude-reflect",
-    "stars": 1915,
-    "forks": 173,
+    "stars": 1930,
+    "forks": 175,
     "archived": false,
     "pushed_at": "2026-10-03T05:33:46Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "BeehiveInnovations/pal-mcp-server": {
     "canonical": "BeehiveInnovations/pal-mcp-server",
-    "stars": 11816,
-    "forks": 1036,
+    "stars": 11831,
+    "forks": 1037,
     "archived": false,
     "pushed_at": "2025-12-15T17:07:31Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "BerriAI/litellm": {
     "canonical": "BerriAI/litellm",
-    "stars": 62544,
-    "forks": 12921,
+    "stars": 62963,
+    "forks": 13130,
     "archived": false,
-    "pushed_at": "2026-11-02T11:02:39Z",
+    "pushed_at": "2026-11-09T11:36:35Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "BloopAI/vibe-kanban": {
     "canonical": "BloopAI/vibe-kanban",
-    "stars": 28560,
-    "forks": 3050,
+    "stars": 28626,
+    "forks": 3059,
     "archived": false,
-    "pushed_at": "2026-10-29T07:49:44Z",
+    "pushed_at": "2026-11-09T11:26:09Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Chachamaru127/claude-code-harness": {
     "canonical": "Chachamaru127/claude-code-harness",
-    "stars": 3191,
-    "forks": 305,
+    "stars": 3205,
+    "forks": 304,
     "archived": false,
-    "pushed_at": "2026-11-01T07:18:49Z",
+    "pushed_at": "2026-11-09T08:47:40Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ChatGPTNextWeb/NextChat": {
     "canonical": "ChatGPTNextWeb/NextChat",
-    "stars": 88935,
-    "forks": 58644,
+    "stars": 88939,
+    "forks": 58579,
     "archived": false,
     "pushed_at": "2026-10-20T10:19:31Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "CherryHQ/cherry-studio": {
     "canonical": "CherryHQ/cherry-studio",
-    "stars": 53186,
-    "forks": 5159,
+    "stars": 53367,
+    "forks": 5199,
     "archived": false,
-    "pushed_at": "2026-11-02T11:24:02Z",
+    "pushed_at": "2026-11-09T11:45:04Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ChrisWiles/claude-code-showcase": {
     "canonical": "ChrisWiles/claude-code-showcase",
-    "stars": 6077,
-    "forks": 578,
+    "stars": 6082,
+    "forks": 577,
     "archived": false,
     "pushed_at": "2026-01-06T19:05:18Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ChromeDevTools/chrome-devtools-mcp": {
     "canonical": "ChromeDevTools/chrome-devtools-mcp",
-    "stars": 54645,
-    "forks": 5248,
+    "stars": 55008,
+    "forks": 4999,
     "archived": false,
-    "pushed_at": "2026-11-02T05:22:22Z",
+    "pushed_at": "2026-11-09T11:44:02Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Coding-Solo/godot-mcp": {
     "canonical": "Coding-Solo/godot-mcp",
-    "stars": 6467,
-    "forks": 521,
+    "stars": 6575,
+    "forks": 529,
     "archived": false,
     "pushed_at": "2026-04-16T23:37:00Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ColeMurray/background-agents": {
     "canonical": "open-inspect/background-agents",
-    "stars": 3441,
-    "forks": 502,
+    "stars": 3473,
+    "forks": 507,
     "archived": false,
-    "pushed_at": "2026-11-01T09:15:53Z",
+    "pushed_at": "2026-11-08T05:22:54Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ColeMurray/claude-code-otel": {
     "canonical": "ColeMurray/claude-code-otel",
-    "stars": 520,
-    "forks": 86,
+    "stars": 521,
+    "forks": 87,
     "archived": false,
     "pushed_at": "2025-06-17T03:01:48Z",
     "language": "Makefile",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ComposioHQ/awesome-claude-skills": {
     "canonical": "ComposioHQ/awesome-claude-skills",
-    "stars": 78558,
-    "forks": 9493,
+    "stars": 79098,
+    "forks": 9618,
     "archived": false,
     "pushed_at": "2026-09-18T07:16:11Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "CoplayDev/unity-mcp": {
     "canonical": "CoplayDev/unity-mcp",
-    "stars": 15635,
-    "forks": 1618,
+    "stars": 15825,
+    "forks": 1631,
     "archived": false,
     "pushed_at": "2026-10-30T18:15:23Z",
     "language": "C#",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "CursorTouch/Windows-MCP": {
     "canonical": "CursorTouch/Windows-MCP",
-    "stars": 10956,
-    "forks": 1179,
+    "stars": 11387,
+    "forks": 1223,
     "archived": false,
-    "pushed_at": "2026-11-02T08:46:06Z",
+    "pushed_at": "2026-11-09T09:15:18Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "DayuanJiang/next-ai-draw-io": {
     "canonical": "DayuanJiang/next-ai-draw-io",
-    "stars": 36576,
-    "forks": 3815,
+    "stars": 36814,
+    "forks": 3840,
     "archived": false,
-    "pushed_at": "2026-11-02T11:18:28Z",
+    "pushed_at": "2026-11-09T04:41:18Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "DeusData/codebase-memory-mcp": {
     "canonical": "DeusData/codebase-memory-mcp",
-    "stars": 47986,
-    "forks": 3951,
+    "stars": 48390,
+    "forks": 4004,
     "archived": false,
-    "pushed_at": "2026-11-02T06:46:29Z",
+    "pushed_at": "2026-11-07T05:43:50Z",
     "language": "C",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Dicklesworthstone/destructive_command_guard": {
     "canonical": "Dicklesworthstone/destructive_command_guard",
-    "stars": 6240,
-    "forks": 262,
+    "stars": 6315,
+    "forks": 268,
     "archived": false,
-    "pushed_at": "2026-11-01T22:03:43Z",
+    "pushed_at": "2026-11-08T21:47:59Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Dicklesworthstone/mcp_agent_mail": {
     "canonical": "Dicklesworthstone/mcp_agent_mail",
-    "stars": 2227,
+    "stars": 2234,
     "forks": 231,
     "archived": false,
-    "pushed_at": "2026-11-01T20:02:53Z",
+    "pushed_at": "2026-11-05T02:10:46Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "DietrichGebert/ponytail": {
     "canonical": "DietrichGebert/ponytail",
-    "stars": 182493,
-    "forks": 10070,
+    "stars": 187226,
+    "forks": 10383,
     "archived": false,
     "pushed_at": "2026-10-29T11:59:31Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Doriandarko/claude-engineer": {
     "canonical": "Doriandarko/claude-engineer",
-    "stars": 11216,
-    "forks": 1159,
+    "stars": 11217,
+    "forks": 1160,
     "archived": false,
     "pushed_at": "2024-12-12T22:08:15Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Egonex-AI/Understand-Anything": {
     "canonical": "Egonex-AI/Understand-Anything",
-    "stars": 89744,
-    "forks": 7625,
+    "stars": 91678,
+    "forks": 7825,
     "archived": false,
-    "pushed_at": "2026-10-26T07:05:22Z",
+    "pushed_at": "2026-11-07T05:37:08Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "EveryInc/compound-engineering-plugin": {
     "canonical": "EveryInc/compound-engineering-plugin",
-    "stars": 25851,
-    "forks": 2055,
+    "stars": 25999,
+    "forks": 2059,
     "archived": false,
-    "pushed_at": "2026-11-02T09:28:07Z",
+    "pushed_at": "2026-11-09T09:25:17Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Fission-AI/OpenSpec": {
     "canonical": "Fission-AI/OpenSpec",
-    "stars": 73670,
-    "forks": 5042,
+    "stars": 74377,
+    "forks": 5101,
     "archived": false,
-    "pushed_at": "2026-11-02T01:45:54Z",
+    "pushed_at": "2026-11-09T01:46:25Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "FlorianBruniaux/claude-code-ultimate-guide": {
     "canonical": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 6320,
-    "forks": 823,
+    "stars": 6391,
+    "forks": 824,
     "archived": false,
-    "pushed_at": "2026-11-02T10:27:39Z",
+    "pushed_at": "2026-11-08T08:39:59Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "GLips/Figma-Context-MCP": {
     "canonical": "GLips/Figma-Context-MCP",
-    "stars": 16134,
-    "forks": 1274,
+    "stars": 16179,
+    "forks": 1280,
     "archived": false,
     "pushed_at": "2026-10-27T05:37:12Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Gentleman-Programming/engram": {
     "canonical": "Gentleman-Programming/engram",
-    "stars": 7738,
+    "stars": 7866,
     "forks": 818,
     "archived": false,
-    "pushed_at": "2026-11-01T21:53:12Z",
+    "pushed_at": "2026-11-09T06:26:36Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "GowayLee/cchooks": {
     "canonical": "GowayLee/cchooks",
@@ -330,475 +330,475 @@
     "archived": false,
     "pushed_at": "2026-04-08T08:38:42Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Graphify-Labs/graphify": {
     "canonical": "Graphify-Labs/graphify",
-    "stars": 140822,
-    "forks": 13461,
+    "stars": 144750,
+    "forks": 13855,
     "archived": false,
-    "pushed_at": "2026-11-01T16:02:01Z",
+    "pushed_at": "2026-11-08T00:52:14Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "GuDaStudio/codexmcp": {
     "canonical": "GuDaStudio/codexmcp",
-    "stars": 2000,
+    "stars": 2001,
     "forks": 113,
     "archived": false,
     "pushed_at": "2026-01-13T11:57:51Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Haleclipse/CCometixLine": {
     "canonical": "Haleclipse/CCometixLine",
-    "stars": 3519,
-    "forks": 225,
+    "stars": 3545,
+    "forks": 226,
     "archived": false,
     "pushed_at": "2026-11-01T19:30:56Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "HermannBjorgvin/Clawdmeter": {
     "canonical": "HermannBjorgvin/Clawdmeter",
-    "stars": 2317,
-    "forks": 407,
+    "stars": 2335,
+    "forks": 411,
     "archived": false,
-    "pushed_at": "2026-11-02T11:13:54Z",
+    "pushed_at": "2026-11-08T18:59:42Z",
     "language": "C",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "IBM/mcp-context-forge": {
     "canonical": "IBM/mcp-context-forge",
-    "stars": 4740,
-    "forks": 955,
+    "stars": 4779,
+    "forks": 963,
     "archived": false,
-    "pushed_at": "2026-11-02T11:13:49Z",
+    "pushed_at": "2026-11-09T11:48:39Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "JimLiu/baoyu-skills": {
     "canonical": "JimLiu/baoyu-skills",
-    "stars": 27191,
-    "forks": 2964,
+    "stars": 27413,
+    "forks": 2988,
     "archived": false,
-    "pushed_at": "2026-11-01T23:35:35Z",
+    "pushed_at": "2026-11-06T17:20:33Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "JuliusBrussee/caveman": {
     "canonical": "JuliusBrussee/caveman",
-    "stars": 116834,
-    "forks": 6783,
+    "stars": 118496,
+    "forks": 6898,
     "archived": false,
-    "pushed_at": "2026-11-02T07:45:06Z",
+    "pushed_at": "2026-11-09T01:48:59Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "K-Dense-AI/scientific-agent-skills": {
     "canonical": "K-Dense-AI/scientific-agent-skills",
-    "stars": 55779,
-    "forks": 4909,
+    "stars": 56568,
+    "forks": 4970,
     "archived": false,
-    "pushed_at": "2026-11-02T09:23:27Z",
+    "pushed_at": "2026-11-09T09:17:48Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Kamalnrf/claude-plugins": {
     "canonical": "Kamalnrf/claude-plugins",
-    "stars": 564,
+    "stars": 565,
     "forks": 40,
     "archived": false,
-    "pushed_at": "2026-11-02T09:03:01Z",
+    "pushed_at": "2026-11-09T09:03:00Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "KeygraphHQ/shannon": {
     "canonical": "KeygraphHQ/shannon",
-    "stars": 50919,
-    "forks": 5912,
+    "stars": 51506,
+    "forks": 6009,
     "archived": false,
-    "pushed_at": "2026-10-27T06:17:04Z",
+    "pushed_at": "2026-11-09T09:12:56Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Kilo-Org/kilocode": {
     "canonical": "Kilo-Org/kilocode",
-    "stars": 27832,
-    "forks": 3329,
+    "stars": 27914,
+    "forks": 3350,
     "archived": false,
-    "pushed_at": "2026-11-02T11:19:08Z",
+    "pushed_at": "2026-11-09T11:48:28Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "KimYx0207/AI-Coding-Guide-Zh": {
     "canonical": "KimYx0207/AI-Coding-Guide-Zh",
-    "stars": 6428,
-    "forks": 1084,
+    "stars": 6473,
+    "forks": 1091,
     "archived": false,
     "pushed_at": "2026-10-28T21:29:53Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Kochava-Studios/witsy": {
     "canonical": "Kochava-Studios/witsy",
-    "stars": 2038,
+    "stars": 2039,
     "forks": 171,
     "archived": false,
     "pushed_at": "2026-04-23T17:32:21Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "KroMiose/nekro-agent": {
     "canonical": "KroMiose/nekro-agent",
-    "stars": 1163,
+    "stars": 1165,
     "forks": 89,
     "archived": false,
     "pushed_at": "2026-10-09T07:43:43Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "LangGPT/awesome-claude-code": {
     "canonical": "LangGPT/awesome-claude-code",
-    "stars": 272,
+    "stars": 274,
     "forks": 165,
     "archived": false,
     "pushed_at": "2026-05-24T00:40:08Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "LeastBit/Claude_skills_zh-CN": {
     "canonical": "LeastBit/Claude_skills_zh-CN",
-    "stars": 602,
+    "stars": 607,
     "forks": 96,
     "archived": false,
     "pushed_at": "2026-01-19T05:50:17Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Leonxlnx/taste-skill": {
     "canonical": "Leonxlnx/taste-skill",
-    "stars": 108254,
-    "forks": 7299,
+    "stars": 112281,
+    "forks": 7551,
     "archived": false,
-    "pushed_at": "2026-10-31T07:59:58Z",
+    "pushed_at": "2026-11-08T21:51:50Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "LibreChat-AI/LibreChat": {
     "canonical": "LibreChat-AI/LibreChat",
-    "stars": 46635,
-    "forks": 9589,
+    "stars": 46889,
+    "forks": 9659,
     "archived": false,
-    "pushed_at": "2026-11-02T07:41:29Z",
+    "pushed_at": "2026-11-09T11:13:43Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Maciek-roboblog/Claude-Code-Usage-Monitor": {
     "canonical": "Maciek-roboblog/Claude-Code-Usage-Monitor",
-    "stars": 8789,
-    "forks": 464,
+    "stars": 8797,
+    "forks": 462,
     "archived": false,
     "pushed_at": "2026-07-05T04:52:21Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "MarkusPfundstein/mcp-obsidian": {
     "canonical": "MarkusPfundstein/mcp-obsidian",
-    "stars": 4516,
+    "stars": 4526,
     "forks": 508,
     "archived": false,
     "pushed_at": "2026-08-31T11:49:01Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Minidoracat/mcp-feedback-enhanced": {
     "canonical": "Minidoracat/mcp-feedback-enhanced",
-    "stars": 3753,
-    "forks": 353,
+    "stars": 3752,
+    "forks": 352,
     "archived": false,
     "pushed_at": "2026-10-31T22:31:09Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Mintplex-Labs/anything-llm": {
     "canonical": "Mintplex-Labs/anything-llm",
-    "stars": 67846,
-    "forks": 7654,
+    "stars": 68098,
+    "forks": 7693,
     "archived": false,
-    "pushed_at": "2026-10-30T23:50:45Z",
+    "pushed_at": "2026-11-07T02:20:14Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "OpenHands/OpenHands": {
     "canonical": "OpenHands/OpenHands",
-    "stars": 92490,
-    "forks": 12324,
+    "stars": 93025,
+    "forks": 12430,
     "archived": false,
-    "pushed_at": "2026-11-02T11:15:13Z",
+    "pushed_at": "2026-11-09T11:29:19Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "OrchestratorInc/agent-orchestrator": {
     "canonical": "OrchestratorInc/agent-orchestrator",
-    "stars": 14010,
-    "forks": 1909,
+    "stars": 14324,
+    "forks": 1947,
     "archived": false,
-    "pushed_at": "2026-11-02T11:26:32Z",
-    "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "pushed_at": "2026-11-09T11:24:29Z",
+    "language": "TypeScript",
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "OthmanAdi/planning-with-files": {
     "canonical": "OthmanAdi/planning-with-files",
-    "stars": 27823,
-    "forks": 2309,
+    "stars": 27964,
+    "forks": 2313,
     "archived": false,
-    "pushed_at": "2026-10-30T20:57:42Z",
+    "pushed_at": "2026-11-07T11:24:31Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Owloops/claude-powerline": {
     "canonical": "Owloops/claude-powerline",
-    "stars": 1174,
-    "forks": 85,
+    "stars": 1175,
+    "forks": 86,
     "archived": false,
-    "pushed_at": "2026-11-01T09:43:06Z",
+    "pushed_at": "2026-11-08T08:36:45Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "PeonPing/peon-ping": {
     "canonical": "PeonPing/peon-ping",
-    "stars": 5101,
-    "forks": 400,
+    "stars": 5112,
+    "forks": 401,
     "archived": false,
-    "pushed_at": "2026-10-19T17:32:39Z",
+    "pushed_at": "2026-11-06T23:44:17Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Pimzino/claude-code-spec-workflow": {
     "canonical": "Pimzino/claude-code-spec-workflow",
-    "stars": 3854,
+    "stars": 3855,
     "forks": 279,
     "archived": false,
     "pushed_at": "2025-09-07T14:14:52Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Pimzino/spec-workflow-mcp": {
     "canonical": "Pimzino/spec-workflow-mcp",
     "stars": 4306,
-    "forks": 358,
+    "forks": 359,
     "archived": false,
     "pushed_at": "2026-07-03T19:19:12Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "PrefectHQ/fastmcp": {
     "canonical": "PrefectHQ/fastmcp",
-    "stars": 28270,
-    "forks": 2552,
+    "stars": 28358,
+    "forks": 2572,
     "archived": false,
-    "pushed_at": "2026-11-02T11:16:15Z",
+    "pushed_at": "2026-11-09T11:42:22Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Q00/ouroboros": {
     "canonical": "Q00/ouroboros",
-    "stars": 6306,
-    "forks": 638,
+    "stars": 6341,
+    "forks": 641,
     "archived": false,
-    "pushed_at": "2026-11-01T19:58:39Z",
+    "pushed_at": "2026-11-08T20:35:49Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "RchGrav/claudebox": {
     "canonical": "RchGrav/claudebox",
-    "stars": 1172,
+    "stars": 1170,
     "forks": 130,
     "archived": false,
     "pushed_at": "2026-09-17T03:35:27Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Skyvern-AI/skyvern": {
     "canonical": "Skyvern-AI/skyvern",
-    "stars": 23336,
-    "forks": 2233,
+    "stars": 23369,
+    "forks": 2238,
     "archived": false,
-    "pushed_at": "2026-11-02T10:54:39Z",
+    "pushed_at": "2026-11-09T11:22:30Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "SuperClaude-Org/SuperClaude_Framework": {
     "canonical": "SuperClaude-Org/SuperClaude_Framework",
-    "stars": 23922,
-    "forks": 1988,
+    "stars": 23930,
+    "forks": 1985,
     "archived": false,
     "pushed_at": "2026-09-27T12:50:32Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ThinkInAIXYZ/deepchat": {
     "canonical": "ThinkInAIXYZ/deepchat",
-    "stars": 6384,
-    "forks": 770,
+    "stars": 6387,
+    "forks": 775,
     "archived": false,
-    "pushed_at": "2026-11-02T07:45:19Z",
+    "pushed_at": "2026-11-09T11:44:07Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "UKGovernmentBEIS/inspect_ai": {
     "canonical": "UKGovernmentBEIS/inspect_ai",
-    "stars": 3153,
-    "forks": 883,
+    "stars": 3208,
+    "forks": 915,
     "archived": false,
-    "pushed_at": "2026-11-02T11:02:57Z",
+    "pushed_at": "2026-11-09T11:22:28Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "UfoMiao/zcf": {
     "canonical": "UfoMiao/zcf",
-    "stars": 6074,
-    "forks": 419,
+    "stars": 6070,
+    "forks": 420,
     "archived": false,
     "pushed_at": "2026-10-29T13:54:56Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "VoltAgent/awesome-agent-skills": {
     "canonical": "VoltAgent/awesome-agent-skills",
-    "stars": 36755,
-    "forks": 4045,
+    "stars": 36990,
+    "forks": 4097,
     "archived": false,
-    "pushed_at": "2026-11-02T08:19:59Z",
+    "pushed_at": "2026-11-05T10:43:36Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "VoltAgent/awesome-claude-code-subagents": {
     "canonical": "VoltAgent/awesome-claude-code-subagents",
-    "stars": 26272,
-    "forks": 3013,
+    "stars": 26436,
+    "forks": 3023,
     "archived": false,
     "pushed_at": "2026-11-02T06:50:02Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Wirasm/prp": {
     "canonical": "Wirasm/prp",
-    "stars": 2264,
-    "forks": 600,
+    "stars": 2267,
+    "forks": 599,
     "archived": false,
     "pushed_at": "2026-10-02T06:09:53Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "Yeachan-Heo/oh-my-claudecode": {
     "canonical": "Yeachan-Heo/oh-my-claudecode",
-    "stars": 40511,
-    "forks": 3624,
+    "stars": 40705,
+    "forks": 3637,
     "archived": false,
-    "pushed_at": "2026-11-02T11:26:08Z",
+    "pushed_at": "2026-11-09T11:44:20Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "YishenTu/claudian": {
     "canonical": "YishenTu/claudian",
-    "stars": 15887,
-    "forks": 1082,
+    "stars": 15949,
+    "forks": 1091,
     "archived": false,
-    "pushed_at": "2026-11-02T07:41:18Z",
+    "pushed_at": "2026-11-09T00:48:40Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "aaddrick/claude-desktop-debian": {
     "canonical": "aaddrick/claude-desktop-debian",
-    "stars": 5502,
-    "forks": 530,
+    "stars": 5514,
+    "forks": 531,
     "archived": false,
-    "pushed_at": "2026-11-02T02:17:55Z",
+    "pushed_at": "2026-11-09T02:18:10Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "aaif-goose/goose": {
     "canonical": "aaif-goose/goose",
-    "stars": 56119,
-    "forks": 6544,
+    "stars": 56388,
+    "forks": 6573,
     "archived": false,
-    "pushed_at": "2026-11-02T04:38:01Z",
+    "pushed_at": "2026-11-09T06:55:06Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "addyosmani/agent-skills": {
     "canonical": "addyosmani/agent-skills",
-    "stars": 112665,
-    "forks": 11792,
+    "stars": 114326,
+    "forks": 11950,
     "archived": false,
     "pushed_at": "2026-11-01T19:24:49Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "affaan-m/ECC": {
     "canonical": "affaan-m/ECC",
-    "stars": 295118,
-    "forks": 43686,
+    "stars": 299916,
+    "forks": 44299,
     "archived": false,
-    "pushed_at": "2026-11-02T04:56:08Z",
+    "pushed_at": "2026-11-09T04:56:24Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "agentclientprotocol/claude-agent-acp": {
     "canonical": "agentclientprotocol/claude-agent-acp",
-    "stars": 2716,
-    "forks": 460,
+    "stars": 2742,
+    "forks": 472,
     "archived": false,
-    "pushed_at": "2026-11-02T11:26:25Z",
+    "pushed_at": "2026-11-09T10:47:04Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ahujasid/ableton-mcp": {
     "canonical": "ahujasid/ableton-mcp",
-    "stars": 3289,
-    "forks": 451,
+    "stars": 3327,
+    "forks": 458,
     "archived": false,
     "pushed_at": "2026-09-22T10:37:13Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ahujasid/mcp-for-blender": {
     "canonical": "ahujasid/mcp-for-blender",
-    "stars": 33049,
-    "forks": 2992,
+    "stars": 33732,
+    "forks": 3069,
     "archived": false,
-    "pushed_at": "2026-10-29T09:13:34Z",
+    "pushed_at": "2026-11-04T13:04:08Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "alchaincyf/claude-code-orange-book": {
     "canonical": "alchaincyf/claude-code-orange-book",
-    "stars": 334,
+    "stars": 335,
     "forks": 53,
     "archived": false,
     "pushed_at": "2026-08-23T14:18:25Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "alirezarezvani/claude-code-tresor": {
     "canonical": "alirezarezvani/claude-code-tresor",
-    "stars": 782,
-    "forks": 168,
+    "stars": 784,
+    "forks": 167,
     "archived": false,
     "pushed_at": "2026-07-03T13:43:32Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "amantus-ai/vibetunnel": {
     "canonical": "amantus-ai/vibetunnel",
-    "stars": 4707,
-    "forks": 336,
+    "stars": 4706,
+    "forks": 335,
     "archived": false,
     "pushed_at": "2026-08-05T19:25:41Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "andrepimenta/claude-code-chat": {
     "canonical": "andrepimenta/claude-code-chat",
@@ -807,331 +807,331 @@
     "archived": false,
     "pushed_at": "2026-09-18T17:42:59Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "andrewyng/aisuite": {
     "canonical": "andrewyng/aisuite",
-    "stars": 16371,
-    "forks": 1737,
+    "stars": 16384,
+    "forks": 1738,
     "archived": false,
     "pushed_at": "2026-09-18T23:01:44Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anomalyco/opencode": {
     "canonical": "anomalyco/opencode",
-    "stars": 223978,
-    "forks": 30116,
+    "stars": 225647,
+    "forks": 30480,
     "archived": false,
-    "pushed_at": "2026-11-02T11:19:39Z",
+    "pushed_at": "2026-11-09T10:54:14Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/anthropic-cli": {
     "canonical": "anthropics/anthropic-cli",
-    "stars": 705,
-    "forks": 121,
+    "stars": 719,
+    "forks": 122,
     "archived": false,
-    "pushed_at": "2026-10-27T17:25:26Z",
+    "pushed_at": "2026-11-06T03:14:50Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/anthropic-sdk-csharp": {
     "canonical": "anthropics/anthropic-sdk-csharp",
-    "stars": 339,
-    "forks": 123,
+    "stars": 345,
+    "forks": 121,
     "archived": false,
-    "pushed_at": "2026-10-23T23:21:38Z",
+    "pushed_at": "2026-11-05T18:59:06Z",
     "language": "C#",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/anthropic-sdk-go": {
     "canonical": "anthropics/anthropic-sdk-go",
-    "stars": 1235,
+    "stars": 1244,
     "forks": 221,
     "archived": false,
-    "pushed_at": "2026-10-27T17:00:39Z",
+    "pushed_at": "2026-11-05T18:57:05Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/anthropic-sdk-java": {
     "canonical": "anthropics/anthropic-sdk-java",
-    "stars": 387,
+    "stars": 391,
     "forks": 108,
     "archived": false,
-    "pushed_at": "2026-10-23T23:21:57Z",
+    "pushed_at": "2026-11-05T19:02:16Z",
     "language": "Kotlin",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/anthropic-sdk-php": {
     "canonical": "anthropics/anthropic-sdk-php",
-    "stars": 197,
+    "stars": 200,
     "forks": 62,
     "archived": false,
-    "pushed_at": "2026-10-23T23:17:00Z",
+    "pushed_at": "2026-11-05T19:00:41Z",
     "language": "PHP",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/anthropic-sdk-python": {
     "canonical": "anthropics/anthropic-sdk-python",
-    "stars": 4035,
-    "forks": 900,
+    "stars": 4061,
+    "forks": 906,
     "archived": false,
-    "pushed_at": "2026-10-23T23:18:21Z",
+    "pushed_at": "2026-11-05T18:58:46Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/anthropic-sdk-ruby": {
     "canonical": "anthropics/anthropic-sdk-ruby",
-    "stars": 377,
-    "forks": 75,
+    "stars": 379,
+    "forks": 79,
     "archived": false,
-    "pushed_at": "2026-10-23T23:18:27Z",
+    "pushed_at": "2026-11-05T19:02:03Z",
     "language": "Ruby",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/anthropic-sdk-typescript": {
     "canonical": "anthropics/anthropic-sdk-typescript",
-    "stars": 2163,
-    "forks": 432,
+    "stars": 2170,
+    "forks": 434,
     "archived": false,
-    "pushed_at": "2026-10-23T23:23:47Z",
+    "pushed_at": "2026-11-05T19:00:32Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/claude-agent-sdk-python": {
     "canonical": "anthropics/claude-agent-sdk-python",
-    "stars": 8409,
-    "forks": 1390,
+    "stars": 8500,
+    "forks": 1403,
     "archived": false,
-    "pushed_at": "2026-10-31T01:47:12Z",
+    "pushed_at": "2026-11-06T17:57:32Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/claude-agent-sdk-typescript": {
     "canonical": "anthropics/claude-agent-sdk-typescript",
-    "stars": 1858,
+    "stars": 1872,
     "forks": 244,
     "archived": false,
-    "pushed_at": "2026-10-31T01:01:05Z",
+    "pushed_at": "2026-11-06T17:03:49Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/claude-code": {
     "canonical": "anthropics/claude-code",
-    "stars": 154233,
-    "forks": 25526,
+    "stars": 155067,
+    "forks": 25344,
     "archived": false,
-    "pushed_at": "2026-11-02T07:12:58Z",
+    "pushed_at": "2026-11-06T17:04:01Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/claude-code-action": {
     "canonical": "anthropics/claude-code-action",
-    "stars": 9758,
-    "forks": 2242,
+    "stars": 9859,
+    "forks": 2264,
     "archived": false,
-    "pushed_at": "2026-10-31T01:05:49Z",
+    "pushed_at": "2026-11-06T19:21:23Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/claude-code-security-review": {
     "canonical": "anthropics/claude-code-security-review",
-    "stars": 6677,
-    "forks": 746,
+    "stars": 6811,
+    "forks": 766,
     "archived": false,
     "pushed_at": "2026-02-11T18:01:23Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/claude-cookbooks": {
     "canonical": "anthropics/claude-cookbooks",
-    "stars": 54087,
-    "forks": 6531,
+    "stars": 54458,
+    "forks": 6608,
     "archived": false,
-    "pushed_at": "2026-10-29T20:02:54Z",
+    "pushed_at": "2026-11-04T19:23:29Z",
     "language": "Jupyter Notebook",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/claude-plugins-community": {
     "canonical": "anthropics/claude-plugins-community",
-    "stars": 4812,
-    "forks": 352,
+    "stars": 4839,
+    "forks": 353,
     "archived": false,
-    "pushed_at": "2026-11-02T07:50:56Z",
+    "pushed_at": "2026-11-09T07:55:02Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/claude-plugins-official": {
     "canonical": "anthropics/claude-plugins-official",
-    "stars": 45768,
-    "forks": 4765,
+    "stars": 46532,
+    "forks": 4851,
     "archived": false,
-    "pushed_at": "2026-11-02T07:29:13Z",
+    "pushed_at": "2026-11-08T07:28:26Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/claude-quickstarts": {
     "canonical": "anthropics/claude-quickstarts",
-    "stars": 19079,
-    "forks": 3251,
+    "stars": 19720,
+    "forks": 3293,
     "archived": false,
-    "pushed_at": "2026-10-30T19:48:17Z",
-    "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "pushed_at": "2026-11-06T19:37:57Z",
+    "language": "Python",
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/courses": {
     "canonical": "anthropics/courses",
-    "stars": 22961,
-    "forks": 2528,
+    "stars": 22999,
+    "forks": 2548,
     "archived": true,
     "pushed_at": "2026-08-28T09:37:03Z",
     "language": "Jupyter Notebook",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/cwc-workshops": {
     "canonical": "anthropics/cwc-workshops",
-    "stars": 2240,
-    "forks": 687,
+    "stars": 2286,
+    "forks": 702,
     "archived": false,
-    "pushed_at": "2026-10-16T22:26:05Z",
+    "pushed_at": "2026-11-04T18:53:17Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/defending-code-reference-harness": {
     "canonical": "anthropics/defending-code-reference-harness",
-    "stars": 7692,
-    "forks": 635,
+    "stars": 7718,
+    "forks": 640,
     "archived": false,
     "pushed_at": "2026-08-06T21:42:09Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/devcontainer-features": {
     "canonical": "anthropics/devcontainer-features",
-    "stars": 314,
+    "stars": 316,
     "forks": 62,
     "archived": false,
     "pushed_at": "2025-12-16T00:11:22Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/financial-services": {
     "canonical": "anthropics/financial-services",
-    "stars": 40983,
-    "forks": 5704,
+    "stars": 41165,
+    "forks": 5733,
     "archived": false,
     "pushed_at": "2026-10-28T17:23:24Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/knowledge-work-plugins": {
     "canonical": "anthropics/knowledge-work-plugins",
-    "stars": 34425,
-    "forks": 3809,
+    "stars": 35250,
+    "forks": 3903,
     "archived": false,
-    "pushed_at": "2026-11-02T07:26:44Z",
+    "pushed_at": "2026-11-07T00:55:47Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/prompt-eng-interactive-tutorial": {
     "canonical": "anthropics/prompt-eng-interactive-tutorial",
-    "stars": 38995,
-    "forks": 4322,
+    "stars": 39162,
+    "forks": 4344,
     "archived": false,
     "pushed_at": "2026-08-28T05:31:39Z",
     "language": "Jupyter Notebook",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/sandbox-runtime": {
     "canonical": "anthropics/sandbox-runtime",
-    "stars": 6915,
-    "forks": 616,
+    "stars": 7046,
+    "forks": 630,
     "archived": false,
-    "pushed_at": "2026-10-30T00:34:37Z",
+    "pushed_at": "2026-11-06T02:14:30Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anthropics/skills": {
     "canonical": "anthropics/skills",
-    "stars": 186570,
-    "forks": 22037,
+    "stars": 190125,
+    "forks": 22388,
     "archived": false,
-    "pushed_at": "2026-10-28T19:20:39Z",
+    "pushed_at": "2026-11-06T22:32:32Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "anymorph-ai/Claudable": {
     "canonical": "anymorph-ai/Claudable",
-    "stars": 4057,
-    "forks": 619,
+    "stars": 4056,
+    "forks": 618,
     "archived": false,
     "pushed_at": "2026-04-11T03:03:40Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "atlassian/atlassian-mcp-server": {
     "canonical": "atlassian/atlassian-mcp-server",
-    "stars": 1140,
-    "forks": 145,
+    "stars": 1151,
+    "forks": 151,
     "archived": false,
-    "pushed_at": "2026-10-29T18:23:30Z",
+    "pushed_at": "2026-11-07T01:08:43Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "automazeio/ccpm": {
     "canonical": "automazeio/ccpm",
-    "stars": 8425,
-    "forks": 843,
+    "stars": 8437,
+    "forks": 839,
     "archived": false,
-    "pushed_at": "2026-10-19T10:00:48Z",
+    "pushed_at": "2026-11-04T13:13:23Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "avante-corp/avante.nvim": {
     "canonical": "avante-corp/avante.nvim",
-    "stars": 18183,
-    "forks": 858,
+    "stars": 18182,
+    "forks": 856,
     "archived": false,
-    "pushed_at": "2026-11-02T06:15:30Z",
+    "pushed_at": "2026-11-09T09:10:07Z",
     "language": "Lua",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "awslabs/cli-agent-orchestrator": {
     "canonical": "awslabs/cli-agent-orchestrator",
-    "stars": 1501,
-    "forks": 313,
+    "stars": 1532,
+    "forks": 317,
     "archived": false,
-    "pushed_at": "2026-11-02T10:54:16Z",
+    "pushed_at": "2026-11-09T10:45:40Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "awslabs/mcp": {
     "canonical": "awslabs/mcp",
-    "stars": 9862,
-    "forks": 1842,
+    "stars": 9894,
+    "forks": 1864,
     "archived": false,
-    "pushed_at": "2026-11-01T23:20:34Z",
+    "pushed_at": "2026-11-09T09:40:28Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ayghri/i-have-adhd": {
     "canonical": "ayghri/i-have-adhd",
-    "stars": 59750,
-    "forks": 3475,
+    "stars": 60583,
+    "forks": 3538,
     "archived": false,
     "pushed_at": "2026-10-19T19:46:23Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "backnotprop/plannotator": {
     "canonical": "backnotprop/plannotator",
-    "stars": 9819,
-    "forks": 731,
+    "stars": 9931,
+    "forks": 752,
     "archived": false,
-    "pushed_at": "2026-11-02T10:05:40Z",
+    "pushed_at": "2026-11-09T11:29:57Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ben-vargas/ai-sdk-provider-claude-code": {
     "canonical": "ben-vargas/ai-sdk-provider-claude-code",
@@ -1140,169 +1140,169 @@
     "archived": false,
     "pushed_at": "2026-10-25T09:00:19Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "blader/humanizer": {
     "canonical": "blader/humanizer",
-    "stars": 63771,
-    "forks": 5044,
+    "stars": 66877,
+    "forks": 5256,
     "archived": false,
     "pushed_at": "2026-10-28T07:17:33Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "blazickjp/arxiv-mcp-server": {
     "canonical": "blazickjp/arxiv-mcp-server",
-    "stars": 3247,
-    "forks": 260,
+    "stars": 3264,
+    "forks": 263,
     "archived": false,
     "pushed_at": "2026-10-08T13:08:10Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "bmad-code-org/BMAD-METHOD": {
     "canonical": "bmad-code-org/BMAD-METHOD",
-    "stars": 54882,
-    "forks": 6132,
+    "stars": 55156,
+    "forks": 6149,
     "archived": false,
-    "pushed_at": "2026-11-01T03:00:45Z",
+    "pushed_at": "2026-11-08T03:41:31Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "brainlid/langchain": {
     "canonical": "brainlid/langchain",
-    "stars": 1212,
-    "forks": 217,
+    "stars": 1213,
+    "forks": 218,
     "archived": false,
-    "pushed_at": "2026-10-27T04:10:26Z",
+    "pushed_at": "2026-11-02T22:38:18Z",
     "language": "Elixir",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "brave/brave-search-mcp-server": {
     "canonical": "brave/brave-search-mcp-server",
-    "stars": 1553,
-    "forks": 224,
+    "stars": 1565,
+    "forks": 227,
     "archived": false,
-    "pushed_at": "2026-10-30T14:32:37Z",
+    "pushed_at": "2026-11-06T01:22:18Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "browser-use/browser-use": {
     "canonical": "browser-use/browser-use",
-    "stars": 119816,
-    "forks": 13354,
+    "stars": 120402,
+    "forks": 13449,
     "archived": false,
-    "pushed_at": "2026-11-02T01:31:56Z",
+    "pushed_at": "2026-11-09T09:48:24Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "browserbase/stagehand": {
     "canonical": "browserbase/stagehand",
-    "stars": 25905,
-    "forks": 1802,
+    "stars": 25990,
+    "forks": 1812,
     "archived": false,
-    "pushed_at": "2026-10-30T23:33:45Z",
+    "pushed_at": "2026-11-09T03:18:19Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "buildermethods/agent-os": {
     "canonical": "buildermethods/agent-os",
-    "stars": 5569,
-    "forks": 830,
+    "stars": 5588,
+    "forks": 831,
     "archived": false,
     "pushed_at": "2026-10-07T04:18:58Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "bytebase/dbhub": {
     "canonical": "bytebase/dbhub",
-    "stars": 3770,
-    "forks": 330,
+    "stars": 3816,
+    "forks": 335,
     "archived": false,
-    "pushed_at": "2026-10-26T09:22:30Z",
+    "pushed_at": "2026-11-09T06:43:35Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ccusage/ccusage": {
     "canonical": "ccusage/ccusage",
-    "stars": 19293,
-    "forks": 905,
+    "stars": 19371,
+    "forks": 912,
     "archived": false,
-    "pushed_at": "2026-11-02T11:17:13Z",
+    "pushed_at": "2026-11-09T03:14:38Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "centminmod/my-claude-code-setup": {
     "canonical": "centminmod/my-claude-code-setup",
-    "stars": 2709,
-    "forks": 255,
+    "stars": 2722,
+    "forks": 254,
     "archived": false,
     "pushed_at": "2026-10-08T02:55:07Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "charmbracelet/crush": {
     "canonical": "charmbracelet/crush",
-    "stars": 28910,
-    "forks": 2345,
+    "stars": 29012,
+    "forks": 2361,
     "archived": false,
-    "pushed_at": "2026-11-02T11:14:30Z",
+    "pushed_at": "2026-11-09T11:29:17Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "chatboxai/chatbox": {
     "canonical": "chatboxai/chatbox",
-    "stars": 42232,
-    "forks": 4302,
+    "stars": 42282,
+    "forks": 4318,
     "archived": false,
-    "pushed_at": "2026-10-29T03:41:00Z",
+    "pushed_at": "2026-11-08T13:38:10Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "chenhg5/cc-connect": {
     "canonical": "chenhg5/cc-connect",
-    "stars": 16210,
-    "forks": 1701,
+    "stars": 16297,
+    "forks": 1719,
     "archived": false,
-    "pushed_at": "2026-11-01T10:27:37Z",
+    "pushed_at": "2026-11-08T14:47:41Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "chiphuyen/sniffly": {
     "canonical": "chiphuyen/sniffly",
-    "stars": 1277,
+    "stars": 1282,
     "forks": 118,
     "archived": false,
     "pushed_at": "2025-08-08T18:38:03Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "chongdashu/cc-statusline": {
     "canonical": "chongdashu/cc-statusline",
-    "stars": 645,
+    "stars": 644,
     "forks": 62,
     "archived": false,
     "pushed_at": "2026-02-16T23:19:09Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ciembor/agent-rules-books": {
     "canonical": "ciembor/agent-rules-books",
-    "stars": 3167,
-    "forks": 553,
+    "stars": 3227,
+    "forks": 561,
     "archived": false,
     "pushed_at": "2026-09-10T11:21:47Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "classmethod/tsumiki": {
     "canonical": "classmethod/tsumiki",
-    "stars": 972,
+    "stars": 973,
     "forks": 63,
     "archived": false,
     "pushed_at": "2026-08-07T07:04:50Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "claude-code-chinese/claude-code-guide": {
     "canonical": "claude-code-chinese/claude-code-guide",
@@ -1311,178 +1311,178 @@
     "archived": false,
     "pushed_at": "2026-04-01T08:28:32Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "claude-did-this/claude-hub": {
     "canonical": "claude-did-this/claude-hub",
-    "stars": 488,
+    "stars": 489,
     "forks": 44,
     "archived": false,
     "pushed_at": "2025-10-27T14:06:25Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "cline/cline": {
     "canonical": "cline/cline",
-    "stars": 71200,
-    "forks": 7830,
+    "stars": 71486,
+    "forks": 7897,
     "archived": false,
-    "pushed_at": "2026-11-02T07:29:59Z",
+    "pushed_at": "2026-11-09T09:54:06Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "cloudflare/mcp": {
     "canonical": "cloudflare/mcp",
-    "stars": 1037,
-    "forks": 158,
+    "stars": 1069,
+    "forks": 168,
     "archived": false,
-    "pushed_at": "2026-11-01T10:08:46Z",
+    "pushed_at": "2026-11-09T06:51:07Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "coder/claudecode.nvim": {
     "canonical": "coder/claudecode.nvim",
-    "stars": 3146,
+    "stars": 3157,
     "forks": 223,
     "archived": false,
-    "pushed_at": "2026-11-01T20:37:23Z",
+    "pushed_at": "2026-11-02T19:52:09Z",
     "language": "Lua",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "coipond/coi": {
     "canonical": "coipond/coi",
-    "stars": 770,
-    "forks": 66,
+    "stars": 778,
+    "forks": 67,
     "archived": false,
-    "pushed_at": "2026-11-01T19:41:00Z",
+    "pushed_at": "2026-11-09T11:41:39Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "coleam00/Archon": {
     "canonical": "coleam00/Archon",
-    "stars": 23801,
-    "forks": 3515,
+    "stars": 23868,
+    "forks": 3526,
     "archived": false,
-    "pushed_at": "2026-11-02T11:25:36Z",
+    "pushed_at": "2026-11-09T11:43:38Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "coleam00/context-engineering-intro": {
     "canonical": "coleam00/context-engineering-intro",
-    "stars": 13894,
-    "forks": 2708,
+    "stars": 13905,
+    "forks": 2705,
     "archived": false,
     "pushed_at": "2026-03-16T12:13:59Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "composio-community/awesome-claude-plugins": {
     "canonical": "composio-community/awesome-claude-plugins",
-    "stars": 1978,
-    "forks": 733,
+    "stars": 1986,
+    "forks": 781,
     "archived": false,
-    "pushed_at": "2026-07-26T09:02:02Z",
+    "pushed_at": "2026-11-05T04:02:31Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "composio-community/open-claude-cowork": {
     "canonical": "composio-community/open-claude-cowork",
-    "stars": 4308,
-    "forks": 702,
+    "stars": 4314,
+    "forks": 703,
     "archived": false,
     "pushed_at": "2026-05-23T11:52:19Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "containers/kubernetes-mcp-server": {
     "canonical": "containers/kubernetes-mcp-server",
-    "stars": 2214,
-    "forks": 477,
+    "stars": 2234,
+    "forks": 486,
     "archived": false,
-    "pushed_at": "2026-11-02T07:20:23Z",
+    "pushed_at": "2026-11-09T11:08:23Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "contains-studio/agents": {
     "canonical": "contains-studio/agents",
-    "stars": 12419,
-    "forks": 2491,
+    "stars": 12422,
+    "forks": 2489,
     "archived": false,
     "pushed_at": "2025-07-28T16:13:43Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "continuedev/continue": {
     "canonical": "continuedev/continue",
-    "stars": 36400,
-    "forks": 5542,
+    "stars": 36442,
+    "forks": 5556,
     "archived": false,
-    "pushed_at": "2026-11-01T07:23:48Z",
+    "pushed_at": "2026-11-05T15:28:28Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "corbt/agent.exe": {
     "canonical": "corbt/agent.exe",
-    "stars": 3472,
+    "stars": 3470,
     "forks": 319,
     "archived": false,
     "pushed_at": "2024-11-15T01:11:47Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "coreyhaines31/marketingskills": {
     "canonical": "coreyhaines31/marketingskills",
-    "stars": 57950,
-    "forks": 8525,
+    "stars": 59315,
+    "forks": 8665,
     "archived": false,
-    "pushed_at": "2026-10-31T00:53:07Z",
+    "pushed_at": "2026-11-06T17:53:06Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "craft-ai-agents/craft-agents-oss": {
     "canonical": "craft-ai-agents/craft-agents-oss",
-    "stars": 7303,
-    "forks": 1071,
+    "stars": 7319,
+    "forks": 1075,
     "archived": false,
-    "pushed_at": "2026-10-23T00:26:42Z",
+    "pushed_at": "2026-11-03T16:19:52Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "crmne/ruby_llm": {
     "canonical": "crmne/ruby_llm",
-    "stars": 4490,
-    "forks": 529,
+    "stars": 4498,
+    "forks": 534,
     "archived": false,
-    "pushed_at": "2026-11-02T11:26:06Z",
+    "pushed_at": "2026-11-09T06:00:25Z",
     "language": "Ruby",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "crystaldba/postgres-mcp": {
     "canonical": "crystaldba/postgres-mcp",
-    "stars": 3449,
-    "forks": 397,
+    "stars": 3465,
+    "forks": 398,
     "archived": false,
     "pushed_at": "2026-08-17T05:06:35Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "cyrusagents/cyrus": {
     "canonical": "cyrusagents/cyrus",
-    "stars": 883,
-    "forks": 184,
+    "stars": 888,
+    "forks": 189,
     "archived": false,
-    "pushed_at": "2026-11-02T07:39:53Z",
+    "pushed_at": "2026-11-06T18:40:23Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "czlonkowski/n8n-mcp": {
     "canonical": "czlonkowski/n8n-mcp",
-    "stars": 23193,
-    "forks": 3680,
+    "stars": 23230,
+    "forks": 3683,
     "archived": false,
-    "pushed_at": "2026-11-02T09:55:37Z",
+    "pushed_at": "2026-11-09T11:33:49Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "d-kimuson/claude-code-viewer": {
     "canonical": "d-kimuson/claude-code-viewer",
@@ -1491,223 +1491,223 @@
     "archived": false,
     "pushed_at": "2026-08-18T06:56:21Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "daaain/claude-code-log": {
     "canonical": "daaain/claude-code-log",
-    "stars": 1253,
-    "forks": 103,
+    "stars": 1257,
+    "forks": 104,
     "archived": false,
-    "pushed_at": "2026-11-02T09:53:40Z",
+    "pushed_at": "2026-11-09T00:02:04Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "dagger/container-use": {
     "canonical": "dagger/container-use",
-    "stars": 4083,
-    "forks": 211,
+    "stars": 4087,
+    "forks": 215,
     "archived": false,
     "pushed_at": "2026-09-21T14:05:02Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "davepoon/buildwithclaude": {
     "canonical": "davepoon/buildwithclaude",
-    "stars": 3706,
-    "forks": 675,
+    "stars": 3733,
+    "forks": 703,
     "archived": false,
-    "pushed_at": "2026-11-02T07:07:59Z",
+    "pushed_at": "2026-11-08T06:05:38Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "davila7/claude-code-templates": {
     "canonical": "davila7/claude-code-templates",
-    "stars": 33056,
-    "forks": 3842,
+    "stars": 33224,
+    "forks": 3895,
     "archived": false,
-    "pushed_at": "2026-11-02T04:19:50Z",
+    "pushed_at": "2026-11-09T04:20:42Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "deedy/mac_computer_use": {
     "canonical": "deedy/mac_computer_use",
     "stars": 891,
-    "forks": 138,
+    "forks": 137,
     "archived": false,
     "pushed_at": "2024-12-16T05:21:06Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "dgunning/edgartools": {
     "canonical": "dgunning/edgartools",
-    "stars": 2835,
-    "forks": 521,
+    "stars": 2844,
+    "forks": 524,
     "archived": false,
-    "pushed_at": "2026-11-01T23:34:11Z",
+    "pushed_at": "2026-11-08T14:12:29Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "diet103/claude-code-infrastructure-showcase": {
     "canonical": "diet103/claude-code-infrastructure-showcase",
-    "stars": 10043,
-    "forks": 1208,
+    "stars": 10053,
+    "forks": 1207,
     "archived": false,
     "pushed_at": "2026-07-13T22:59:08Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "disler/claude-code-hooks-mastery": {
     "canonical": "disler/claude-code-hooks-mastery",
-    "stars": 3970,
-    "forks": 640,
+    "stars": 3973,
+    "forks": 641,
     "archived": false,
     "pushed_at": "2026-03-04T18:16:25Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "disler/claude-code-hooks-multi-agent-observability": {
     "canonical": "disler/claude-code-hooks-multi-agent-observability",
-    "stars": 1564,
+    "stars": 1566,
     "forks": 387,
     "archived": false,
     "pushed_at": "2026-02-08T23:59:13Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "dyad-sh/dyad": {
     "canonical": "dyad-sh/dyad",
-    "stars": 22163,
-    "forks": 2787,
+    "stars": 22238,
+    "forks": 2805,
     "archived": false,
-    "pushed_at": "2026-11-01T22:03:51Z",
+    "pushed_at": "2026-11-06T21:35:53Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "dyoshikawa/rulesync": {
     "canonical": "dyoshikawa/rulesync",
-    "stars": 1577,
-    "forks": 168,
+    "stars": 1594,
+    "forks": 171,
     "archived": false,
-    "pushed_at": "2026-11-02T06:15:49Z",
+    "pushed_at": "2026-11-09T09:31:58Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "dzhng/claude-agent-server": {
     "canonical": "dzhng/claude-agent-server",
-    "stars": 588,
-    "forks": 51,
+    "stars": 590,
+    "forks": 52,
     "archived": false,
     "pushed_at": "2025-12-28T18:10:05Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "e2b-dev/fragments": {
     "canonical": "e2b-dev/fragments",
-    "stars": 6405,
-    "forks": 863,
+    "stars": 6406,
+    "forks": 864,
     "archived": false,
-    "pushed_at": "2026-10-31T05:55:02Z",
+    "pushed_at": "2026-11-04T17:14:32Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "earendil-works/pi": {
     "canonical": "earendil-works/pi",
-    "stars": 119489,
-    "forks": 15343,
+    "stars": 120990,
+    "forks": 15585,
     "archived": false,
-    "pushed_at": "2026-11-02T11:15:23Z",
+    "pushed_at": "2026-11-09T11:12:49Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "enricoros/big-AGI": {
     "canonical": "enricoros/big-AGI",
-    "stars": 7163,
-    "forks": 1596,
+    "stars": 7167,
+    "forks": 1599,
     "archived": false,
-    "pushed_at": "2026-11-02T09:52:23Z",
+    "pushed_at": "2026-11-08T13:56:59Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "eugene1g/agent-safehouse": {
     "canonical": "eugene1g/agent-safehouse",
-    "stars": 2132,
+    "stars": 2144,
     "forks": 99,
     "archived": false,
-    "pushed_at": "2026-10-21T00:20:23Z",
+    "pushed_at": "2026-11-08T15:53:55Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "exa-labs/exa-mcp-server": {
     "canonical": "exa-labs/exa-mcp-server",
-    "stars": 5208,
-    "forks": 407,
+    "stars": 5219,
+    "forks": 415,
     "archived": false,
-    "pushed_at": "2026-11-02T01:26:06Z",
+    "pushed_at": "2026-11-05T23:18:45Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "excalidraw/excalidraw-mcp": {
     "canonical": "excalidraw/excalidraw-mcp",
-    "stars": 5617,
-    "forks": 533,
+    "stars": 5655,
+    "forks": 538,
     "archived": false,
     "pushed_at": "2026-03-24T12:27:09Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "eyaltoledano/claude-task-master": {
     "canonical": "eyaltoledano/claude-task-master",
-    "stars": 28289,
-    "forks": 2615,
+    "stars": 28327,
+    "forks": 2616,
     "archived": false,
     "pushed_at": "2026-04-28T13:27:12Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "farion1231/cc-switch": {
     "canonical": "farion1231/cc-switch",
-    "stars": 151126,
-    "forks": 9934,
+    "stars": 152982,
+    "forks": 10054,
     "archived": false,
-    "pushed_at": "2026-11-02T11:20:12Z",
+    "pushed_at": "2026-11-09T03:52:48Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "farouqaldori/vibe-notch": {
     "canonical": "farouqaldori/vibe-notch",
-    "stars": 2526,
-    "forks": 360,
+    "stars": 2532,
+    "forks": 359,
     "archived": false,
     "pushed_at": "2026-04-20T20:02:57Z",
     "language": "Swift",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "feiskyer/claude-code-settings": {
     "canonical": "feiskyer/claude-code-settings",
-    "stars": 1669,
-    "forks": 240,
+    "stars": 1676,
+    "forks": 239,
     "archived": false,
-    "pushed_at": "2026-09-27T15:24:55Z",
+    "pushed_at": "2026-11-05T13:15:07Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "fengshao1227/ccg-workflow": {
     "canonical": "fengshao1227/ccg-workflow",
-    "stars": 5959,
+    "stars": 5978,
     "forks": 458,
     "archived": false,
     "pushed_at": "2026-11-02T03:12:32Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "firecrawl/firecrawl-mcp-server": {
     "canonical": "firecrawl/firecrawl-mcp-server",
-    "stars": 7751,
-    "forks": 925,
+    "stars": 7786,
+    "forks": 927,
     "archived": false,
-    "pushed_at": "2026-11-02T02:43:31Z",
+    "pushed_at": "2026-11-09T11:35:33Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "fivetaku/cc101": {
     "canonical": "fivetaku/cc101",
@@ -1716,205 +1716,205 @@
     "archived": false,
     "pushed_at": "2026-09-24T03:28:51Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "frankbria/ralph-claude-code": {
     "canonical": "frankbria/ralph-claude-code",
     "stars": 9721,
-    "forks": 729,
+    "forks": 730,
     "archived": false,
-    "pushed_at": "2026-10-31T02:33:54Z",
+    "pushed_at": "2026-11-07T02:33:08Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "fuergaosi233/claude-code-proxy": {
     "canonical": "fuergaosi233/claude-code-proxy",
-    "stars": 2803,
+    "stars": 2804,
     "forks": 416,
     "archived": false,
     "pushed_at": "2026-03-12T06:19:07Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "gastownhall/beads": {
     "canonical": "gastownhall/beads",
-    "stars": 28409,
-    "forks": 1918,
+    "stars": 28613,
+    "forks": 1941,
     "archived": false,
-    "pushed_at": "2026-11-02T11:25:15Z",
+    "pushed_at": "2026-11-09T11:35:06Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "gastownhall/gastown": {
     "canonical": "gastownhall/gastown",
-    "stars": 18664,
-    "forks": 1692,
+    "stars": 18742,
+    "forks": 1696,
     "archived": false,
     "pushed_at": "2026-10-28T07:13:39Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "generalaction/emdash": {
     "canonical": "generalaction/emdash",
-    "stars": 6145,
-    "forks": 658,
+    "stars": 6223,
+    "forks": 664,
     "archived": false,
-    "pushed_at": "2026-11-02T08:17:47Z",
+    "pushed_at": "2026-11-06T11:03:37Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "getagentseal/codeburn": {
     "canonical": "getagentseal/codeburn",
-    "stars": 11651,
-    "forks": 901,
+    "stars": 11736,
+    "forks": 907,
     "archived": false,
-    "pushed_at": "2026-11-01T16:19:19Z",
+    "pushed_at": "2026-11-08T16:12:38Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "getpaseo/paseo": {
     "canonical": "getpaseo/paseo",
-    "stars": 22792,
-    "forks": 2790,
+    "stars": 23603,
+    "forks": 2892,
     "archived": false,
-    "pushed_at": "2026-11-02T11:10:32Z",
+    "pushed_at": "2026-11-09T10:56:51Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "getsentry/MobileBuildMCP": {
     "canonical": "getsentry/MobileBuildMCP",
-    "stars": 6531,
-    "forks": 330,
+    "stars": 6554,
+    "forks": 328,
     "archived": false,
-    "pushed_at": "2026-11-01T11:09:32Z",
+    "pushed_at": "2026-11-07T03:33:42Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "getsentry/toolkit": {
     "canonical": "getsentry/toolkit",
-    "stars": 952,
-    "forks": 172,
+    "stars": 961,
+    "forks": 177,
     "archived": false,
-    "pushed_at": "2026-11-02T11:22:43Z",
+    "pushed_at": "2026-11-09T11:38:09Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ghostwright/phantom": {
     "canonical": "ghostwright/phantom",
-    "stars": 1487,
-    "forks": 191,
+    "stars": 1492,
+    "forks": 193,
     "archived": false,
     "pushed_at": "2026-06-16T21:26:09Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "github/github-mcp-server": {
     "canonical": "github/github-mcp-server",
-    "stars": 34157,
-    "forks": 5270,
+    "stars": 34345,
+    "forks": 5313,
     "archived": false,
-    "pushed_at": "2026-11-02T10:39:08Z",
+    "pushed_at": "2026-11-09T11:33:58Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "github/spec-kit": {
     "canonical": "github/spec-kit",
-    "stars": 145182,
-    "forks": 13014,
+    "stars": 148867,
+    "forks": 13367,
     "archived": false,
-    "pushed_at": "2026-10-30T16:19:58Z",
+    "pushed_at": "2026-11-07T04:09:22Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "glittercowboy/taches-cc-resources": {
     "canonical": "glittercowboy/taches-cc-resources",
     "stars": 1986,
-    "forks": 404,
+    "forks": 403,
     "archived": false,
     "pushed_at": "2026-04-01T15:10:58Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "google/mcp": {
     "canonical": "google/mcp",
-    "stars": 4678,
-    "forks": 542,
+    "stars": 4694,
+    "forks": 543,
     "archived": false,
     "pushed_at": "2026-08-17T19:46:40Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "googleapis/mcp-toolbox": {
     "canonical": "googleapis/mcp-toolbox",
-    "stars": 16788,
-    "forks": 1787,
+    "stars": 16829,
+    "forks": 1793,
     "archived": false,
-    "pushed_at": "2026-11-02T09:17:08Z",
+    "pushed_at": "2026-11-07T02:51:35Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "gotalab/cc-sdd": {
     "canonical": "gotalab/cc-sdd",
-    "stars": 3748,
-    "forks": 284,
+    "stars": 3761,
+    "forks": 287,
     "archived": false,
     "pushed_at": "2026-10-22T03:43:11Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "greggh/claude-code.nvim": {
     "canonical": "greggh/claude-code.nvim",
-    "stars": 2106,
+    "stars": 2107,
     "forks": 73,
     "archived": false,
     "pushed_at": "2026-02-04T14:44:51Z",
     "language": "Lua",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "hamed-elfayome/Claude-Usage-Tracker": {
     "canonical": "hamed-elfayome/Claude-Usage-Tracker",
-    "stars": 3728,
-    "forks": 202,
+    "stars": 3758,
+    "forks": 205,
     "archived": false,
     "pushed_at": "2026-08-31T09:28:00Z",
     "language": "Swift",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "hangwin/mcp-chrome": {
     "canonical": "hangwin/mcp-chrome",
-    "stars": 12526,
-    "forks": 1148,
+    "stars": 12539,
+    "forks": 1152,
     "archived": false,
     "pushed_at": "2026-01-06T13:05:39Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "hashicorp/terraform-mcp-server": {
     "canonical": "hashicorp/terraform-mcp-server",
-    "stars": 1556,
-    "forks": 201,
+    "stars": 1557,
+    "forks": 203,
     "archived": false,
-    "pushed_at": "2026-10-30T16:49:31Z",
+    "pushed_at": "2026-11-06T18:40:46Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "headroomlabs-ai/headroom": {
     "canonical": "headroomlabs-ai/headroom",
-    "stars": 78618,
-    "forks": 6138,
+    "stars": 79197,
+    "forks": 6194,
     "archived": false,
-    "pushed_at": "2026-11-02T08:20:08Z",
+    "pushed_at": "2026-11-09T06:35:45Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "herdrdev/herdr": {
     "canonical": "herdrdev/herdr",
-    "stars": 47466,
-    "forks": 3798,
+    "stars": 49609,
+    "forks": 4004,
     "archived": false,
-    "pushed_at": "2026-11-01T09:25:31Z",
+    "pushed_at": "2026-11-07T12:32:55Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "hesreallyhim/a-list-of-claude-code-agents": {
     "canonical": "hesreallyhim/a-list-of-claude-code-agents",
@@ -1923,61 +1923,61 @@
     "archived": false,
     "pushed_at": "2025-11-10T17:14:34Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "hesreallyhim/awesome-claude-code": {
     "canonical": "hesreallyhim/awesome-claude-code",
-    "stars": 57084,
-    "forks": 4903,
+    "stars": 57582,
+    "forks": 4928,
     "archived": false,
-    "pushed_at": "2026-11-02T09:09:16Z",
+    "pushed_at": "2026-11-09T09:09:20Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "hoangsonww/Claude-Code-Agent-Monitor": {
     "canonical": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 1137,
+    "stars": 1160,
     "forks": 261,
     "archived": false,
-    "pushed_at": "2026-11-02T08:26:41Z",
-    "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "pushed_at": "2026-11-08T05:07:11Z",
+    "language": "TypeScript",
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "humanlayer/advanced-context-engineering-for-coding-agents": {
     "canonical": "humanlayer/advanced-context-engineering-for-coding-agents",
-    "stars": 2813,
-    "forks": 216,
+    "stars": 2824,
+    "forks": 219,
     "archived": false,
     "pushed_at": "2026-10-16T00:22:05Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "iOfficeAI/AionUi": {
     "canonical": "iOfficeAI/AionUi",
-    "stars": 33990,
-    "forks": 3545,
+    "stars": 34148,
+    "forks": 3576,
     "archived": false,
-    "pushed_at": "2026-10-23T14:21:51Z",
+    "pushed_at": "2026-11-05T05:31:20Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "idosal/git-mcp": {
     "canonical": "idosal/git-mcp",
-    "stars": 8501,
-    "forks": 760,
+    "stars": 8509,
+    "forks": 762,
     "archived": false,
     "pushed_at": "2026-05-08T14:21:24Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "intellectronica/ruler": {
     "canonical": "intellectronica/ruler",
-    "stars": 2956,
-    "forks": 165,
+    "stars": 2967,
+    "forks": 166,
     "archived": false,
-    "pushed_at": "2026-10-28T17:08:04Z",
+    "pushed_at": "2026-11-04T17:06:53Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "jamesrochabrun/SwiftAnthropic": {
     "canonical": "jamesrochabrun/SwiftAnthropic",
@@ -1986,97 +1986,97 @@
     "archived": false,
     "pushed_at": "2026-04-18T01:23:11Z",
     "language": "Swift",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "janhq/jan": {
     "canonical": "janhq/jan",
-    "stars": 45309,
-    "forks": 3131,
+    "stars": 45623,
+    "forks": 3166,
     "archived": false,
-    "pushed_at": "2026-11-02T11:02:27Z",
+    "pushed_at": "2026-11-09T09:11:31Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "jarrodwatts/claude-hud": {
     "canonical": "jarrodwatts/claude-hud",
-    "stars": 29083,
-    "forks": 1330,
+    "stars": 29137,
+    "forks": 1336,
     "archived": false,
-    "pushed_at": "2026-11-02T06:53:35Z",
+    "pushed_at": "2026-11-09T07:23:08Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "jeremylongshore/tons-of-skills-marketplace": {
     "canonical": "jeremylongshore/tons-of-skills-marketplace",
-    "stars": 2890,
+    "stars": 2909,
     "forks": 427,
     "archived": false,
-    "pushed_at": "2026-11-02T06:26:09Z",
+    "pushed_at": "2026-11-09T06:56:01Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "jgraph/drawio-mcp": {
     "canonical": "jgraph/drawio-mcp",
-    "stars": 5749,
-    "forks": 351,
+    "stars": 5797,
+    "forks": 354,
     "archived": false,
-    "pushed_at": "2026-10-31T07:18:02Z",
+    "pushed_at": "2026-11-07T09:37:43Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "jhlee0409/claude-code-history-viewer": {
     "canonical": "jhlee0409/claude-code-history-viewer",
-    "stars": 2295,
-    "forks": 250,
+    "stars": 2306,
+    "forks": 253,
     "archived": false,
-    "pushed_at": "2026-11-01T14:11:20Z",
+    "pushed_at": "2026-11-06T07:04:52Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "josix/awesome-claude-md": {
     "canonical": "josix/awesome-claude-md",
-    "stars": 623,
+    "stars": 630,
     "forks": 59,
     "archived": false,
     "pushed_at": "2026-10-23T19:35:52Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "junhoyeo/tokscale": {
     "canonical": "junhoyeo/tokscale",
-    "stars": 5789,
-    "forks": 474,
+    "stars": 5816,
+    "forks": 478,
     "archived": false,
-    "pushed_at": "2026-11-02T08:24:08Z",
+    "pushed_at": "2026-11-06T03:20:22Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "karanb192/awesome-claude-code-mods": {
     "canonical": "karanb192/awesome-claude-code-mods",
-    "stars": 844,
-    "forks": 175,
+    "stars": 897,
+    "forks": 190,
     "archived": false,
-    "pushed_at": "2026-11-02T07:53:57Z",
+    "pushed_at": "2026-11-09T11:38:09Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "karanb192/claude-code-hooks": {
     "canonical": "karanb192/claude-code-hooks",
-    "stars": 572,
-    "forks": 49,
+    "stars": 579,
+    "forks": 48,
     "archived": false,
-    "pushed_at": "2026-11-02T07:48:47Z",
+    "pushed_at": "2026-11-09T11:01:35Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "karthink/gptel": {
     "canonical": "karthink/gptel",
-    "stars": 3558,
-    "forks": 448,
+    "stars": 3566,
+    "forks": 452,
     "archived": false,
-    "pushed_at": "2026-11-01T02:19:06Z",
+    "pushed_at": "2026-11-08T10:25:31Z",
     "language": "Emacs Lisp",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "kbwo/ccmanager": {
     "canonical": "kbwo/ccmanager",
@@ -2085,650 +2085,655 @@
     "archived": false,
     "pushed_at": "2026-10-27T23:41:16Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "kenryu42/cc-safety-net": {
     "canonical": "kenryu42/cc-safety-net",
-    "stars": 1892,
-    "forks": 88,
+    "stars": 1975,
+    "forks": 92,
     "archived": false,
-    "pushed_at": "2026-11-02T02:02:11Z",
+    "pushed_at": "2026-11-09T02:24:16Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "kepano/obsidian-skills": {
     "canonical": "kepano/obsidian-skills",
-    "stars": 50605,
-    "forks": 3577,
+    "stars": 51199,
+    "forks": 3616,
     "archived": false,
     "pushed_at": "2026-09-15T14:43:57Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "khoj-ai/khoj": {
     "canonical": "khoj-ai/khoj",
-    "stars": 37941,
-    "forks": 2529,
+    "stars": 38084,
+    "forks": 2543,
     "archived": false,
     "pushed_at": "2026-08-02T01:55:40Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "langgptai/awesome-claude-prompts": {
     "canonical": "langgptai/awesome-claude-prompts",
-    "stars": 5559,
-    "forks": 637,
+    "stars": 5574,
+    "forks": 638,
     "archived": false,
     "pushed_at": "2026-10-15T23:15:53Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "lastmile-ai/mcp-agent": {
     "canonical": "lastmile-ai/mcp-agent",
-    "stars": 8571,
+    "stars": 8578,
     "forks": 893,
     "archived": false,
     "pushed_at": "2026-01-25T16:35:16Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "leeguooooo/claude-code-usage-bar": {
     "canonical": "leeguooooo/claude-code-usage-bar",
-    "stars": 387,
+    "stars": 389,
     "forks": 27,
     "archived": false,
     "pushed_at": "2026-10-31T15:20:37Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "lhfer/claude-howto-zh-cn": {
     "canonical": "lhfer/claude-howto-zh-cn",
-    "stars": 2320,
+    "stars": 2327,
     "forks": 335,
     "archived": false,
     "pushed_at": "2026-08-06T01:38:02Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "liaohch3/claude-tap": {
     "canonical": "liaohch3/claude-tap",
-    "stars": 3322,
-    "forks": 285,
+    "stars": 3329,
+    "forks": 288,
     "archived": false,
-    "pushed_at": "2026-11-01T22:40:06Z",
+    "pushed_at": "2026-11-08T22:44:01Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "libukai/awesome-agent-skills": {
-    "missing": true,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "canonical": "libukai/awesome-agent-skills",
+    "stars": 5215,
+    "forks": 489,
+    "archived": false,
+    "pushed_at": "2026-10-25T15:11:49Z",
+    "language": null,
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "liyupi/ai-guide": {
     "canonical": "liyupi/ai-guide",
-    "stars": 21803,
-    "forks": 2373,
+    "stars": 21965,
+    "forks": 2390,
     "archived": false,
     "pushed_at": "2026-10-22T03:01:34Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "lobehub/lobehub": {
     "canonical": "lobehub/lobehub",
-    "stars": 83702,
-    "forks": 16031,
+    "stars": 84530,
+    "forks": 16159,
     "archived": false,
-    "pushed_at": "2026-11-02T11:24:02Z",
+    "pushed_at": "2026-11-09T11:48:08Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "lst97/claude-code-sub-agents": {
     "canonical": "lst97/claude-code-sub-agents",
-    "stars": 1705,
-    "forks": 256,
+    "stars": 1707,
+    "forks": 254,
     "archived": false,
     "pushed_at": "2025-08-15T11:02:46Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "luongnv89/claude-howto": {
     "canonical": "luongnv89/claude-howto",
-    "stars": 46401,
-    "forks": 5693,
+    "stars": 46777,
+    "forks": 5721,
     "archived": false,
-    "pushed_at": "2026-11-02T05:48:59Z",
+    "pushed_at": "2026-11-03T09:18:42Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "magnitudedev/browser-agent": {
     "canonical": "magnitudedev/browser-agent",
-    "stars": 4138,
-    "forks": 245,
+    "stars": 4139,
+    "forks": 247,
     "archived": false,
     "pushed_at": "2026-02-08T20:51:06Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "makenotion/notion-mcp-server": {
     "canonical": "makenotion/notion-mcp-server",
-    "stars": 4693,
-    "forks": 640,
+    "stars": 4702,
+    "forks": 646,
     "archived": false,
     "pushed_at": "2026-10-29T16:10:22Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "manaflow-ai/cmux": {
     "canonical": "manaflow-ai/cmux",
-    "stars": 28646,
-    "forks": 2612,
+    "stars": 28738,
+    "forks": 2641,
     "archived": false,
-    "pushed_at": "2026-11-02T11:26:46Z",
+    "pushed_at": "2026-11-09T11:48:52Z",
     "language": "Swift",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "manzaltu/claude-code-ide.el": {
     "canonical": "manzaltu/claude-code-ide.el",
-    "stars": 1684,
-    "forks": 117,
+    "stars": 1687,
+    "forks": 119,
     "archived": false,
     "pushed_at": "2026-09-14T16:21:41Z",
     "language": "Emacs Lisp",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "markwylde/claude-code-gitea-action": {
     "canonical": "markwylde/claude-code-gitea-action",
-    "stars": 165,
+    "stars": 166,
     "forks": 28,
     "archived": false,
     "pushed_at": "2026-08-07T21:25:26Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "matt1398/claude-devtools": {
     "canonical": "matt1398/claude-devtools",
-    "stars": 4008,
-    "forks": 307,
+    "stars": 4028,
+    "forks": 308,
     "archived": false,
     "pushed_at": "2026-09-26T07:43:48Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "mattpocock/skills": {
     "canonical": "mattpocock/skills",
-    "stars": 309646,
-    "forks": 26056,
+    "stars": 319121,
+    "forks": 26710,
     "archived": false,
-    "pushed_at": "2026-11-01T11:42:33Z",
+    "pushed_at": "2026-11-05T10:40:01Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "max-sixty/worktrunk": {
     "canonical": "max-sixty/worktrunk",
-    "stars": 9817,
-    "forks": 349,
+    "stars": 12202,
+    "forks": 472,
     "archived": false,
-    "pushed_at": "2026-11-02T10:03:56Z",
+    "pushed_at": "2026-11-09T10:26:38Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "mcp-use/mcp-use": {
     "canonical": "mcp-use/mcp-use",
-    "stars": 10838,
-    "forks": 1534,
+    "stars": 10858,
+    "forks": 1547,
     "archived": false,
-    "pushed_at": "2026-10-30T22:29:57Z",
+    "pushed_at": "2026-11-07T20:09:55Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "microsoft/mcp": {
     "canonical": "microsoft/mcp",
-    "stars": 3823,
-    "forks": 665,
+    "stars": 3839,
+    "forks": 666,
     "archived": false,
-    "pushed_at": "2026-11-02T10:09:16Z",
+    "pushed_at": "2026-11-09T10:25:41Z",
     "language": "C#",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "microsoft/mcp-for-beginners": {
     "canonical": "microsoft/mcp-for-beginners",
-    "stars": 17582,
-    "forks": 5676,
+    "stars": 17630,
+    "forks": 5684,
     "archived": false,
     "pushed_at": "2026-11-02T03:13:47Z",
     "language": "Jupyter Notebook",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "microsoft/playwright-mcp": {
     "canonical": "microsoft/playwright-mcp",
-    "stars": 38974,
-    "forks": 3362,
+    "stars": 39369,
+    "forks": 3408,
     "archived": false,
-    "pushed_at": "2026-11-01T23:12:55Z",
+    "pushed_at": "2026-11-06T22:49:45Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "mindfold-ai/Trellis": {
     "canonical": "mindfold-ai/Trellis",
-    "stars": 15080,
-    "forks": 881,
+    "stars": 15113,
+    "forks": 892,
     "archived": false,
     "pushed_at": "2026-09-29T12:35:32Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "mksglu/context-mode": {
     "canonical": "mksglu/context-mode",
-    "stars": 33220,
-    "forks": 2292,
+    "stars": 33732,
+    "forks": 2308,
     "archived": false,
-    "pushed_at": "2026-11-02T11:22:16Z",
-    "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "pushed_at": "2026-11-09T03:26:10Z",
+    "language": "JavaScript",
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "mobile-next/mobile-mcp": {
     "canonical": "mobile-next/mobile-mcp",
-    "stars": 10218,
-    "forks": 915,
+    "stars": 10429,
+    "forks": 934,
     "archived": false,
-    "pushed_at": "2026-11-01T19:51:53Z",
+    "pushed_at": "2026-11-07T08:39:20Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "modelcontextprotocol/csharp-sdk": {
     "canonical": "modelcontextprotocol/csharp-sdk",
-    "stars": 4613,
-    "forks": 839,
+    "stars": 4624,
+    "forks": 845,
     "archived": false,
-    "pushed_at": "2026-11-02T06:34:17Z",
+    "pushed_at": "2026-11-09T06:37:52Z",
     "language": "C#",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "modelcontextprotocol/ext-apps": {
     "canonical": "modelcontextprotocol/ext-apps",
-    "stars": 3038,
-    "forks": 424,
+    "stars": 3067,
+    "forks": 430,
     "archived": false,
-    "pushed_at": "2026-10-29T13:22:43Z",
+    "pushed_at": "2026-11-05T21:50:16Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "modelcontextprotocol/go-sdk": {
     "canonical": "modelcontextprotocol/go-sdk",
-    "stars": 5299,
-    "forks": 607,
+    "stars": 5327,
+    "forks": 614,
     "archived": false,
-    "pushed_at": "2026-11-02T10:41:33Z",
+    "pushed_at": "2026-11-09T11:29:05Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "modelcontextprotocol/inspector": {
     "canonical": "modelcontextprotocol/inspector",
-    "stars": 11211,
-    "forks": 1552,
+    "stars": 11257,
+    "forks": 1563,
     "archived": false,
-    "pushed_at": "2026-10-29T06:32:33Z",
+    "pushed_at": "2026-11-05T23:07:44Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "modelcontextprotocol/mcpb": {
     "canonical": "modelcontextprotocol/mcpb",
-    "stars": 2164,
+    "stars": 2172,
     "forks": 212,
     "archived": false,
     "pushed_at": "2026-05-26T14:13:36Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "modelcontextprotocol/modelcontextprotocol": {
     "canonical": "modelcontextprotocol/modelcontextprotocol",
-    "stars": 9589,
-    "forks": 1890,
+    "stars": 9652,
+    "forks": 1902,
     "archived": false,
-    "pushed_at": "2026-11-02T08:09:46Z",
+    "pushed_at": "2026-11-09T11:48:43Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "modelcontextprotocol/python-sdk": {
     "canonical": "modelcontextprotocol/python-sdk",
-    "stars": 24736,
-    "forks": 4095,
+    "stars": 24809,
+    "forks": 4116,
     "archived": false,
-    "pushed_at": "2026-11-01T16:26:38Z",
+    "pushed_at": "2026-11-05T13:38:56Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "modelcontextprotocol/rust-sdk": {
     "canonical": "modelcontextprotocol/rust-sdk",
-    "stars": 4084,
-    "forks": 694,
+    "stars": 4101,
+    "forks": 703,
     "archived": false,
-    "pushed_at": "2026-11-01T19:09:40Z",
+    "pushed_at": "2026-11-08T16:43:48Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "modelcontextprotocol/servers": {
     "canonical": "modelcontextprotocol/servers",
-    "stars": 91744,
-    "forks": 11903,
+    "stars": 91885,
+    "forks": 11931,
     "archived": false,
-    "pushed_at": "2026-10-29T05:27:40Z",
+    "pushed_at": "2026-11-05T06:26:00Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "modelcontextprotocol/typescript-sdk": {
     "canonical": "modelcontextprotocol/typescript-sdk",
-    "stars": 13695,
-    "forks": 2366,
+    "stars": 13736,
+    "forks": 2377,
     "archived": false,
-    "pushed_at": "2026-10-31T10:56:10Z",
+    "pushed_at": "2026-11-05T15:00:35Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "mrexodia/ida-pro-mcp": {
     "canonical": "mrexodia/ida-pro-mcp",
-    "stars": 13290,
-    "forks": 1613,
+    "stars": 13421,
+    "forks": 1643,
     "archived": false,
     "pushed_at": "2026-09-26T15:42:10Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "msitarzewski/agency-agents": {
     "canonical": "msitarzewski/agency-agents",
-    "stars": 166007,
-    "forks": 26890,
+    "stars": 167418,
+    "forks": 27138,
     "archived": false,
-    "pushed_at": "2026-10-25T01:43:20Z",
+    "pushed_at": "2026-11-09T00:27:04Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "multica-ai/multica": {
     "canonical": "multica-ai/multica",
-    "stars": 54620,
-    "forks": 7186,
+    "stars": 55391,
+    "forks": 7305,
     "archived": false,
-    "pushed_at": "2026-11-02T10:48:30Z",
+    "pushed_at": "2026-11-09T11:38:00Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "musistudio/claude-code-router": {
     "canonical": "musistudio/claude-code-router",
-    "stars": 37953,
-    "forks": 3188,
+    "stars": 38063,
+    "forks": 3200,
     "archived": false,
     "pushed_at": "2026-10-10T03:35:10Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "nanbingxyz/5ire": {
     "canonical": "nanbingxyz/5ire",
-    "stars": 5373,
-    "forks": 441,
+    "stars": 5370,
+    "forks": 443,
     "archived": false,
-    "pushed_at": "2026-10-30T08:05:54Z",
+    "pushed_at": "2026-11-05T09:50:54Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "nanobrowser/nanobrowser": {
     "canonical": "nanobrowser/nanobrowser",
-    "stars": 14219,
-    "forks": 1519,
+    "stars": 14266,
+    "forks": 1526,
     "archived": false,
-    "pushed_at": "2026-10-24T07:28:41Z",
+    "pushed_at": "2026-11-08T09:03:45Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "neondatabase/mcp-server-neon": {
     "canonical": "neondatabase/mcp-server-neon",
-    "stars": 659,
-    "forks": 133,
+    "stars": 663,
+    "forks": 134,
     "archived": false,
-    "pushed_at": "2026-10-31T22:38:08Z",
+    "pushed_at": "2026-11-09T11:42:39Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "nextlevelbuilder/ui-ux-pro-max-skill": {
     "canonical": "nextlevelbuilder/ui-ux-pro-max-skill",
-    "stars": 144031,
-    "forks": 15248,
+    "stars": 147143,
+    "forks": 15572,
     "archived": false,
-    "pushed_at": "2026-11-01T07:04:29Z",
+    "pushed_at": "2026-11-07T19:05:11Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "nicedreamzapp/claude-code-local": {
     "canonical": "nicedreamzapp/claude-code-local",
-    "stars": 3403,
-    "forks": 639,
+    "stars": 3488,
+    "forks": 649,
     "archived": false,
-    "pushed_at": "2026-11-01T02:54:47Z",
+    "pushed_at": "2026-11-09T04:37:50Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "nimbalyst/nimbalyst": {
     "canonical": "nimbalyst/nimbalyst",
-    "stars": 2015,
-    "forks": 326,
+    "stars": 2049,
+    "forks": 338,
     "archived": false,
-    "pushed_at": "2026-10-31T20:28:04Z",
+    "pushed_at": "2026-11-04T07:28:07Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "nizos/tdd-guard": {
     "canonical": "nizos/tdd-guard",
-    "stars": 2373,
-    "forks": 188,
+    "stars": 2374,
+    "forks": 191,
     "archived": false,
-    "pushed_at": "2026-10-26T19:02:11Z",
+    "pushed_at": "2026-11-03T19:34:03Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "nolabs-ai/nono": {
     "canonical": "nolabs-ai/nono",
-    "stars": 4802,
-    "forks": 326,
+    "stars": 4899,
+    "forks": 330,
     "archived": false,
-    "pushed_at": "2026-11-02T09:51:30Z",
+    "pushed_at": "2026-11-06T14:21:51Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "obra/superpowers": {
     "canonical": "obra/superpowers",
-    "stars": 310926,
-    "forks": 27672,
+    "stars": 314817,
+    "forks": 28007,
     "archived": false,
-    "pushed_at": "2026-10-29T23:35:34Z",
+    "pushed_at": "2026-11-03T23:24:58Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "olimorris/codecompanion.nvim": {
     "canonical": "olimorris/codecompanion.nvim",
-    "stars": 6919,
-    "forks": 472,
+    "stars": 6931,
+    "forks": 473,
     "archived": false,
-    "pushed_at": "2026-11-02T07:48:58Z",
+    "pushed_at": "2026-11-08T17:56:17Z",
     "language": "Lua",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "op7418/CodePilot": {
     "canonical": "op7418/CodePilot",
-    "stars": 6514,
-    "forks": 695,
+    "stars": 6519,
+    "forks": 697,
     "archived": false,
     "pushed_at": "2026-09-22T03:24:52Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "open-gsd/gsd-core": {
     "canonical": "open-gsd/gsd-core",
-    "stars": 11147,
-    "forks": 788,
+    "stars": 11371,
+    "forks": 816,
     "archived": false,
-    "pushed_at": "2026-11-02T08:28:57Z",
+    "pushed_at": "2026-11-09T11:36:44Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "open-webui/open-webui": {
     "canonical": "open-webui/open-webui",
-    "stars": 157526,
-    "forks": 22908,
+    "stars": 158184,
+    "forks": 22994,
     "archived": false,
-    "pushed_at": "2026-11-02T08:49:52Z",
-    "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "pushed_at": "2026-11-09T09:55:49Z",
+    "language": "Svelte",
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "openclaw/Peekaboo": {
     "canonical": "openclaw/Peekaboo",
-    "stars": 5421,
-    "forks": 416,
+    "stars": 5458,
+    "forks": 420,
     "archived": false,
-    "pushed_at": "2026-10-27T22:06:53Z",
+    "pushed_at": "2026-11-08T07:12:52Z",
     "language": "Swift",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "openclaw/openclaw": {
     "canonical": "openclaw/openclaw",
-    "stars": 393695,
-    "forks": 82739,
+    "stars": 394226,
+    "forks": 82846,
     "archived": false,
-    "pushed_at": "2026-11-02T11:26:07Z",
+    "pushed_at": "2026-11-09T11:48:18Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "oraios/serena": {
     "canonical": "oraios/serena",
-    "stars": 31012,
-    "forks": 2120,
+    "stars": 31227,
+    "forks": 2135,
     "archived": false,
     "pushed_at": "2026-10-28T10:45:55Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "overwirehq/claude-code-telegram": {
     "canonical": "overwirehq/claude-code-telegram",
-    "stars": 2820,
-    "forks": 428,
+    "stars": 2821,
+    "forks": 427,
     "archived": false,
     "pushed_at": "2026-10-01T07:43:39Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "paperclipai/paperclip": {
     "canonical": "paperclipai/paperclip",
-    "stars": 110083,
-    "forks": 18244,
+    "stars": 112482,
+    "forks": 18654,
     "archived": false,
-    "pushed_at": "2026-11-02T09:50:49Z",
+    "pushed_at": "2026-11-09T11:48:41Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "parcadei/Continuous-Claude-v3": {
     "canonical": "parcadei/Continuous-Claude-v3",
-    "stars": 3947,
+    "stars": 3949,
     "forks": 303,
     "archived": false,
     "pushed_at": "2026-01-26T15:27:49Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "peterkrueck/Claude-Code-Development-Kit": {
     "canonical": "peterkrueck/Claude-Code-Development-Kit",
-    "stars": 1387,
+    "stars": 1388,
     "forks": 153,
     "archived": false,
     "pushed_at": "2026-07-22T15:05:18Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "phuryn/claude-usage": {
     "canonical": "phuryn/claude-usage",
-    "stars": 2285,
-    "forks": 410,
+    "stars": 2293,
+    "forks": 412,
     "archived": false,
     "pushed_at": "2026-07-10T10:08:48Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "prism-php/prism": {
     "canonical": "prism-php/prism",
-    "stars": 2429,
-    "forks": 312,
+    "stars": 2430,
+    "forks": 315,
     "archived": false,
-    "pushed_at": "2026-10-16T14:00:08Z",
+    "pushed_at": "2026-11-07T23:33:26Z",
     "language": "PHP",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "promptfoo/promptfoo": {
     "canonical": "promptfoo/promptfoo",
-    "stars": 26736,
-    "forks": 2631,
+    "stars": 26981,
+    "forks": 2695,
     "archived": false,
-    "pushed_at": "2026-11-02T06:30:49Z",
+    "pushed_at": "2026-11-09T08:08:12Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "punkpeye/awesome-mcp-servers": {
     "canonical": "punkpeye/awesome-mcp-servers",
-    "stars": 97190,
-    "forks": 19010,
+    "stars": 97513,
+    "forks": 19530,
     "archived": false,
-    "pushed_at": "2026-11-02T04:38:05Z",
+    "pushed_at": "2026-11-06T17:59:03Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "qdhenry/Claude-Command-Suite": {
     "canonical": "qdhenry/Claude-Command-Suite",
-    "stars": 1350,
-    "forks": 159,
+    "stars": 1352,
+    "forks": 160,
     "archived": false,
     "pushed_at": "2026-03-01T16:57:57Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "raroque/boop-agent": {
     "canonical": "raroque/boop-agent",
-    "stars": 1388,
+    "stars": 1389,
     "forks": 299,
     "archived": false,
     "pushed_at": "2026-07-13T16:41:06Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "revfactory/claude-code-mastering": {
     "canonical": "revfactory/claude-code-mastering",
     "stars": 775,
-    "forks": 126,
+    "forks": 125,
     "archived": false,
     "pushed_at": "2026-01-22T23:22:35Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "revfactory/harness": {
     "canonical": "revfactory/harness",
-    "stars": 9305,
-    "forks": 1341,
+    "stars": 9342,
+    "forks": 1345,
     "archived": false,
     "pushed_at": "2026-09-28T05:19:20Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "rullerzhou-afk/clawd-on-desk": {
     "canonical": "rullerzhou-afk/clawd-on-desk",
-    "stars": 6629,
-    "forks": 700,
+    "stars": 6700,
+    "forks": 708,
     "archived": false,
-    "pushed_at": "2026-11-02T10:58:42Z",
+    "pushed_at": "2026-11-09T03:28:46Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ruvnet/ruflo": {
     "canonical": "ruvnet/ruflo",
-    "stars": 80588,
-    "forks": 9459,
+    "stars": 81322,
+    "forks": 9567,
     "archived": false,
-    "pushed_at": "2026-11-02T09:21:09Z",
+    "pushed_at": "2026-11-09T09:20:19Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "rz1989s/claude-code-statusline": {
     "canonical": "rz1989s/claude-code-statusline",
@@ -2737,70 +2742,70 @@
     "archived": false,
     "pushed_at": "2026-08-01T21:35:45Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "shanraisshan/claude-code-best-practice": {
     "canonical": "shanraisshan/claude-code-best-practice",
-    "stars": 68452,
-    "forks": 6814,
+    "stars": 68866,
+    "forks": 6856,
     "archived": false,
-    "pushed_at": "2026-11-02T06:34:08Z",
+    "pushed_at": "2026-11-09T06:33:58Z",
     "language": "HTML",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "shanraisshan/claude-code-hooks": {
     "canonical": "shanraisshan/claude-code-hooks",
-    "stars": 563,
+    "stars": 569,
     "forks": 61,
     "archived": false,
     "pushed_at": "2026-06-04T18:35:14Z",
     "language": "HTML",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "shareAI-lab/Kode-CLI": {
     "canonical": "shareAI-lab/Kode-CLI",
-    "stars": 5236,
-    "forks": 776,
+    "stars": 5238,
+    "forks": 775,
     "archived": false,
-    "pushed_at": "2026-10-29T13:54:30Z",
+    "pushed_at": "2026-11-02T18:04:25Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "shareAI-lab/learn-claude-code": {
     "canonical": "shareAI-lab/learn-claude-code",
-    "stars": 79745,
-    "forks": 12756,
+    "stars": 80115,
+    "forks": 12817,
     "archived": false,
     "pushed_at": "2026-10-27T04:47:00Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "showlab/computer_use_ootb": {
     "canonical": "showlab/computer_use_ootb",
-    "stars": 1978,
-    "forks": 195,
+    "stars": 1979,
+    "forks": 196,
     "archived": false,
     "pushed_at": "2025-05-21T14:27:44Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "sigoden/aichat": {
     "canonical": "sigoden/aichat",
-    "stars": 10535,
-    "forks": 747,
+    "stars": 10557,
+    "forks": 753,
     "archived": false,
     "pushed_at": "2026-02-23T11:16:42Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "simonw/claude-code-transcripts": {
     "canonical": "simonw/claude-code-transcripts",
-    "stars": 1727,
-    "forks": 204,
+    "stars": 1729,
+    "forks": 205,
     "archived": false,
     "pushed_at": "2026-02-12T20:49:10Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "simonw/llm-anthropic": {
     "canonical": "simonw/llm-anthropic",
@@ -2809,106 +2814,106 @@
     "archived": false,
     "pushed_at": "2026-09-28T23:06:20Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "simular-ai/Agent-S": {
     "canonical": "simular-ai/Agent-S",
-    "stars": 12857,
-    "forks": 1502,
+    "stars": 12913,
+    "forks": 1506,
     "archived": false,
     "pushed_at": "2026-10-30T20:56:06Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "sirmalloc/ccstatusline": {
     "canonical": "sirmalloc/ccstatusline",
-    "stars": 13492,
-    "forks": 604,
+    "stars": 13555,
+    "forks": 610,
     "archived": false,
-    "pushed_at": "2026-11-02T08:45:43Z",
+    "pushed_at": "2026-11-09T08:45:22Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "siteboon/claudecodeui": {
     "canonical": "siteboon/claudecodeui",
-    "stars": 14391,
-    "forks": 2101,
+    "stars": 14523,
+    "forks": 2116,
     "archived": false,
-    "pushed_at": "2026-10-31T12:40:31Z",
+    "pushed_at": "2026-11-09T11:25:48Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "slopus/happy": {
     "canonical": "slopus/happy",
-    "stars": 24447,
-    "forks": 2103,
+    "stars": 24553,
+    "forks": 2114,
     "archived": false,
-    "pushed_at": "2026-11-02T10:01:44Z",
+    "pushed_at": "2026-11-09T11:32:11Z",
     "language": "Swift",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "smtg-ai/claude-squad": {
     "canonical": "smtg-ai/claude-squad",
-    "stars": 8719,
-    "forks": 623,
+    "stars": 8755,
+    "forks": 624,
     "archived": false,
     "pushed_at": "2026-08-20T05:09:53Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "snarktank/ai-dev-tasks": {
     "canonical": "snarktank/ai-dev-tasks",
-    "stars": 7795,
-    "forks": 1704,
+    "stars": 7797,
+    "forks": 1702,
     "archived": false,
     "pushed_at": "2025-11-05T19:42:09Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "snarktank/ralph": {
     "canonical": "snarktank/ralph",
-    "stars": 22111,
-    "forks": 2093,
+    "stars": 22181,
+    "forks": 2109,
     "archived": false,
     "pushed_at": "2026-02-02T01:46:21Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "snyk/agent-scan": {
     "canonical": "snyk/agent-scan",
-    "stars": 3195,
-    "forks": 294,
+    "stars": 3228,
+    "forks": 297,
     "archived": false,
-    "pushed_at": "2026-10-30T12:57:04Z",
+    "pushed_at": "2026-11-09T09:41:52Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "specstoryai/getspecstory": {
     "canonical": "specstoryai/getspecstory",
-    "stars": 1366,
+    "stars": 1370,
     "forks": 92,
     "archived": false,
-    "pushed_at": "2026-11-02T07:26:22Z",
+    "pushed_at": "2026-11-09T07:31:27Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "stablyai/orca": {
     "canonical": "stablyai/orca",
-    "stars": 113118,
-    "forks": 7156,
+    "stars": 119864,
+    "forks": 7601,
     "archived": false,
-    "pushed_at": "2026-11-02T11:25:27Z",
+    "pushed_at": "2026-11-09T11:48:28Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "stackblitz/bolt.new": {
     "canonical": "stackblitz/bolt.new",
-    "stars": 16586,
-    "forks": 14834,
+    "stars": 16589,
+    "forks": 14838,
     "archived": false,
     "pushed_at": "2024-12-17T06:29:27Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "starbaser/ccproxy": {
     "canonical": "starbaser/ccproxy",
@@ -2917,366 +2922,366 @@
     "archived": false,
     "pushed_at": "2026-08-10T00:29:44Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "steipete/CodexBar": {
     "canonical": "steipete/CodexBar",
-    "stars": 22949,
-    "forks": 2184,
+    "stars": 23075,
+    "forks": 2211,
     "archived": false,
-    "pushed_at": "2026-10-31T10:17:33Z",
+    "pushed_at": "2026-11-08T03:49:00Z",
     "language": "Swift",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "stevemolitor/claude-code.el": {
     "canonical": "stevemolitor/claude-code.el",
-    "stars": 747,
-    "forks": 78,
+    "stars": 748,
+    "forks": 79,
     "archived": false,
     "pushed_at": "2026-04-30T20:00:22Z",
     "language": "Emacs Lisp",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "supabase/mcp": {
     "canonical": "supabase/mcp",
-    "stars": 2991,
-    "forks": 425,
+    "stars": 3002,
+    "forks": 428,
     "archived": false,
-    "pushed_at": "2026-10-31T06:13:19Z",
+    "pushed_at": "2026-11-09T10:37:16Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "superagent-ai/vibekit": {
     "canonical": "superagent-ai/vibekit",
-    "stars": 1865,
+    "stars": 1868,
     "forks": 249,
     "archived": false,
     "pushed_at": "2026-01-13T18:48:57Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "supermemoryai/claude-supermemory": {
     "canonical": "supermemoryai/claude-supermemory",
-    "stars": 2798,
-    "forks": 176,
+    "stars": 2802,
+    "forks": 175,
     "archived": false,
-    "pushed_at": "2026-10-29T06:46:57Z",
+    "pushed_at": "2026-11-07T02:54:58Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "superset-sh/superset": {
     "canonical": "ParadevAI/Paradev",
-    "stars": 15835,
-    "forks": 1412,
+    "stars": 16122,
+    "forks": 1442,
     "archived": false,
-    "pushed_at": "2026-11-02T08:08:33Z",
+    "pushed_at": "2026-11-09T09:49:07Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "tadata-org/fastapi_mcp": {
     "canonical": "tadata-org/fastapi_mcp",
-    "stars": 12023,
-    "forks": 967,
+    "stars": 12029,
+    "forks": 965,
     "archived": false,
     "pushed_at": "2025-11-24T14:51:54Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "tavily-ai/tavily-mcp": {
     "canonical": "tavily-ai/tavily-mcp",
-    "stars": 2471,
+    "stars": 2481,
     "forks": 308,
     "archived": false,
-    "pushed_at": "2026-10-29T15:09:45Z",
+    "pushed_at": "2026-11-05T16:36:54Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "tddworks/ClaudeBar": {
     "canonical": "tddworks/ClaudeBar",
-    "stars": 1567,
-    "forks": 158,
+    "stars": 1573,
+    "forks": 159,
     "archived": false,
-    "pushed_at": "2026-11-02T11:06:50Z",
+    "pushed_at": "2026-11-09T11:24:53Z",
     "language": "Swift",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "tghamm/Anthropic.SDK": {
     "canonical": "tghamm/Anthropic.SDK",
     "stars": 221,
-    "forks": 48,
+    "forks": 47,
     "archived": false,
     "pushed_at": "2026-02-21T12:47:01Z",
     "language": "C#",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "thedotmack/claude-mem": {
     "canonical": "thedotmack/claude-mem",
-    "stars": 110174,
-    "forks": 9611,
+    "stars": 115160,
+    "forks": 10005,
     "archived": false,
-    "pushed_at": "2026-11-02T10:09:11Z",
+    "pushed_at": "2026-11-09T11:26:08Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "tidyverse/ellmer": {
     "canonical": "tidyverse/ellmer",
-    "stars": 620,
+    "stars": 622,
     "forks": 145,
     "archived": false,
-    "pushed_at": "2026-10-30T12:25:22Z",
+    "pushed_at": "2026-11-09T00:05:24Z",
     "language": "R",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "tigerless-labs/autoharness": {
     "canonical": "tigerless-labs/autoharness",
-    "stars": 10630,
-    "forks": 645,
+    "stars": 10881,
+    "forks": 654,
     "archived": false,
-    "pushed_at": "2026-10-30T18:53:20Z",
+    "pushed_at": "2026-11-04T16:47:40Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "tirth8205/code-review-graph": {
     "canonical": "tirth8205/code-review-graph",
-    "stars": 32559,
-    "forks": 2963,
+    "stars": 32656,
+    "forks": 2973,
     "archived": false,
-    "pushed_at": "2026-10-29T10:34:29Z",
+    "pushed_at": "2026-11-06T19:14:29Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "tomcatmew/awesome-Claude-code": {
     "canonical": "tomcatmew/awesome-Claude-code",
     "stars": 1,
-    "forks": 1,
+    "forks": 3,
     "archived": false,
-    "pushed_at": "2026-10-26T09:08:17Z",
+    "pushed_at": "2026-11-02T11:26:58Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "trailhq/Trail-Code": {
     "canonical": "trailhq/Trail-Code",
-    "stars": 11020,
-    "forks": 981,
+    "stars": 11158,
+    "forks": 994,
     "archived": false,
-    "pushed_at": "2026-11-02T10:04:12Z",
+    "pushed_at": "2026-11-09T11:18:21Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "trailofbits/claude-code-config": {
     "canonical": "trailofbits/claude-code-config",
-    "stars": 2145,
+    "stars": 2148,
     "forks": 163,
     "archived": false,
     "pushed_at": "2026-08-24T19:47:25Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "trailofbits/claude-code-devcontainer": {
     "canonical": "trailofbits/claude-code-devcontainer",
-    "stars": 962,
-    "forks": 107,
+    "stars": 975,
+    "forks": 111,
     "archived": false,
-    "pushed_at": "2026-10-30T15:18:53Z",
+    "pushed_at": "2026-11-09T09:22:20Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "trailofbits/skills": {
     "canonical": "trailofbits/skills",
-    "stars": 7948,
-    "forks": 677,
+    "stars": 8084,
+    "forks": 687,
     "archived": false,
-    "pushed_at": "2026-10-28T19:41:17Z",
+    "pushed_at": "2026-11-06T15:20:09Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "trycua/cua": {
     "canonical": "trycua/cua",
-    "stars": 31565,
-    "forks": 2334,
+    "stars": 32055,
+    "forks": 2391,
     "archived": false,
-    "pushed_at": "2026-11-02T10:22:46Z",
+    "pushed_at": "2026-11-09T11:46:50Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "upstash/context7": {
     "canonical": "upstash/context7",
-    "stars": 64069,
-    "forks": 3200,
+    "stars": 64406,
+    "forks": 3228,
     "archived": false,
-    "pushed_at": "2026-11-02T11:20:35Z",
+    "pushed_at": "2026-11-09T11:42:42Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "vercel-labs/skills": {
     "canonical": "vercel-labs/skills",
-    "stars": 37721,
-    "forks": 3262,
+    "stars": 38687,
+    "forks": 3371,
     "archived": false,
-    "pushed_at": "2026-10-30T20:14:22Z",
+    "pushed_at": "2026-11-06T02:37:48Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "vijaythecoder/awesome-claude-agents": {
     "canonical": "vijaythecoder/awesome-claude-agents",
-    "stars": 4404,
-    "forks": 532,
+    "stars": 4406,
+    "forks": 533,
     "archived": false,
     "pushed_at": "2025-10-30T00:06:52Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "wasabeef/claude-code-cookbook": {
     "canonical": "wasabeef/claude-code-cookbook",
-    "stars": 1132,
-    "forks": 114,
+    "stars": 1131,
+    "forks": 115,
     "archived": false,
     "pushed_at": "2026-04-15T03:12:12Z",
     "language": "Shell",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "winfunc/deepreasoning": {
     "canonical": "winfunc/deepreasoning",
-    "stars": 5353,
-    "forks": 438,
+    "stars": 5355,
+    "forks": 437,
     "archived": false,
     "pushed_at": "2025-10-07T05:28:22Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "winfunc/opcode": {
     "canonical": "winfunc/opcode",
-    "stars": 22430,
-    "forks": 1706,
+    "stars": 22432,
+    "forks": 1698,
     "archived": false,
-    "pushed_at": "2026-09-18T16:18:10Z",
+    "pushed_at": "2026-11-06T14:23:42Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "wonderwhy-er/DesktopCommanderMCP": {
     "canonical": "wonderwhy-er/DesktopCommanderMCP",
-    "stars": 10198,
-    "forks": 1275,
+    "stars": 10270,
+    "forks": 1282,
     "archived": false,
-    "pushed_at": "2026-11-02T06:40:09Z",
+    "pushed_at": "2026-11-07T01:54:50Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "wshobson/agents": {
     "canonical": "wshobson/agents",
-    "stars": 42095,
-    "forks": 4454,
+    "stars": 42344,
+    "forks": 4473,
     "archived": false,
-    "pushed_at": "2026-11-02T01:08:47Z",
+    "pushed_at": "2026-11-09T01:08:33Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "xenodium/agent-shell": {
     "canonical": "xenodium/agent-shell",
-    "stars": 2024,
-    "forks": 259,
+    "stars": 2042,
+    "forks": 264,
     "archived": false,
-    "pushed_at": "2026-11-02T01:10:19Z",
+    "pushed_at": "2026-11-09T10:18:23Z",
     "language": "Emacs Lisp",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "xianyu110/awesome-claudcode-tutorial": {
     "canonical": "xianyu110/awesome-claudcode-tutorial",
-    "stars": 627,
-    "forks": 126,
+    "stars": 635,
+    "forks": 129,
     "archived": false,
     "pushed_at": "2026-10-24T10:15:10Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "xpzouying/xiaohongshu-mcp": {
     "canonical": "xpzouying/xiaohongshu-mcp",
-    "stars": 16741,
-    "forks": 2458,
+    "stars": 17038,
+    "forks": 2502,
     "archived": false,
-    "pushed_at": "2026-11-02T04:35:32Z",
+    "pushed_at": "2026-11-09T04:35:53Z",
     "language": "Go",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "xu-xiang/everything-claude-code-zh": {
     "canonical": "xu-xiang/everything-claude-code-zh",
-    "stars": 2015,
-    "forks": 330,
+    "stars": 2025,
+    "forks": 332,
     "archived": false,
     "pushed_at": "2026-03-05T01:45:41Z",
     "language": "JavaScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "yamadashy/repomix": {
     "canonical": "yamadashy/repomix",
-    "stars": 29118,
-    "forks": 1615,
+    "stars": 29199,
+    "forks": 1632,
     "archived": false,
-    "pushed_at": "2026-11-01T16:12:32Z",
+    "pushed_at": "2026-11-08T08:56:26Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "ykdojo/claude-code-tips": {
     "canonical": "ykdojo/claude-code-tips",
-    "stars": 10298,
-    "forks": 826,
+    "stars": 10324,
+    "forks": 825,
     "archived": false,
     "pushed_at": "2026-09-25T03:50:54Z",
     "language": "HTML",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "yusufkaraaslan/Skill_Seekers": {
     "canonical": "yusufkaraaslan/Skill_Seekers",
-    "stars": 15264,
-    "forks": 1546,
+    "stars": 15294,
+    "forks": 1554,
     "archived": false,
     "pushed_at": "2026-09-30T18:49:17Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "yzfly/Awesome-MCP-ZH": {
     "canonical": "yzfly/Awesome-MCP-ZH",
-    "stars": 7803,
-    "forks": 1046,
+    "stars": 7826,
+    "forks": 1091,
     "archived": false,
     "pushed_at": "2026-11-01T02:54:38Z",
     "language": null,
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "zebbern/claude-code-guide": {
     "canonical": "zebbern/claude-code-guide",
-    "stars": 4693,
-    "forks": 470,
+    "stars": 4701,
+    "forks": 471,
     "archived": false,
-    "pushed_at": "2026-11-01T00:43:16Z",
+    "pushed_at": "2026-11-07T00:35:01Z",
     "language": "Python",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "zed-industries/zed": {
     "canonical": "zed-industries/zed",
-    "stars": 92538,
-    "forks": 11351,
+    "stars": 94549,
+    "forks": 11581,
     "archived": false,
-    "pushed_at": "2026-11-02T11:06:41Z",
+    "pushed_at": "2026-11-09T11:41:21Z",
     "language": "Rust",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "zhukunpenglinyutong/jetbrains-cc-gui": {
     "canonical": "zhukunpenglinyutong/jetbrains-cc-gui",
-    "stars": 7426,
-    "forks": 694,
+    "stars": 7572,
+    "forks": 700,
     "archived": false,
-    "pushed_at": "2026-11-01T01:34:18Z",
+    "pushed_at": "2026-11-06T07:01:26Z",
     "language": "Java",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   },
   "zilliztech/claude-context": {
     "canonical": "zilliztech/claude-context",
-    "stars": 12663,
+    "stars": 12677,
     "forks": 939,
     "archived": false,
     "pushed_at": "2026-07-14T12:00:38Z",
     "language": "TypeScript",
-    "checked_at": "2026-11-02T11:26:45Z"
+    "checked_at": "2026-11-09T11:48:44Z"
   }
 }
