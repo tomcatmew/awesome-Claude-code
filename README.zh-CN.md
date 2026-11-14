@@ -9,9 +9,9 @@
 # Awesome Claude Code
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Resources](https://img.shields.io/badge/resources-555-d97757?style=flat-square)](#contents)
+[![Resources](https://img.shields.io/badge/resources-556-d97757?style=flat-square)](#contents)
 [![Website](https://img.shields.io/badge/website-online-2ea44f?style=flat-square)](https://tomcatmew.github.io/awesome-Claude-code/)
-[![Updated](https://img.shields.io/badge/updated-2026--11--09-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
+[![Updated](https://img.shields.io/badge/updated-2026--11--14-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
 [![Stars](https://img.shields.io/github/stars/tomcatmew/awesome-Claude-code?style=flat-square&color=yellow)](https://github.com/tomcatmew/awesome-Claude-code/stargazers)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
 
@@ -26,7 +26,7 @@
 
 </div>
 
-> 共 **555** 个资源 · **41** 个分类 · **364** 个 GitHub 仓库，合计 **9.2M** Star · 更新于 **2026-11-09**
+> 共 **556** 个资源 · **41** 个分类 · **364** 个 GitHub 仓库，合计 **9.2M** Star · 更新于 **2026-11-14**
 >
 > **图例：** 🏆 精选 · ⭐ GitHub Star（每周自动更新）· 🇨🇳 国人/中文 · 🇯🇵 日本 · 🇰🇷 韩国 · 🗄️ 已归档 · 📘 文档 · 📝 文章 · 🎓 课程 · 📺 视频 · 💬 社区
 
@@ -54,8 +54,8 @@
 
 - 🏛️ [官方资源](#official) <sub>36</sub>
   - [官方仓库](#official-repos) <sub>13</sub> · [官方 SDK](#official-sdks) <sub>12</sub> · [官方文档与课程](#official-learning) <sub>11</sub>
-- 🧩 [扩展 Claude Code](#extending) <sub>74</sub>
-  - [Agent Skills 技能](#skills) <sub>23</sub> · [子代理 Subagents](#subagents) <sub>8</sub> · [斜杠命令](#commands) <sub>7</sub> · [钩子 Hooks](#hooks) <sub>13</sub> · [插件与插件市场](#plugins) <sub>11</sub> · [CLAUDE.md、配置与模板](#claude-md) <sub>12</sub>
+- 🧩 [扩展 Claude Code](#extending) <sub>75</sub>
+  - [Agent Skills 技能](#skills) <sub>23</sub> · [子代理 Subagents](#subagents) <sub>8</sub> · [斜杠命令](#commands) <sub>7</sub> · [钩子 Hooks](#hooks) <sub>13</sub> · [插件与插件市场](#plugins) <sub>12</sub> · [CLAUDE.md、配置与模板](#claude-md) <sub>12</sub>
 - 🧭 [工作流与编排](#workflows) <sub>64</sub>
   - [框架与方法论](#frameworks) <sub>19</sub> · [多代理与并行会话](#orchestration) <sub>26</sub> · [记忆与上下文](#memory-context) <sub>19</sub>
 - 🛠️ [工具链](#tooling) <sub>79</sub>
@@ -232,6 +232,7 @@ _即插即用的扩展内容：技能、子代理、斜杠命令、钩子、插�
 - [Claude Code demo plugins](https://github.com/anthropics/claude-code/tree/main/plugins) — Claude Code 仓库中的 Anthropic 示例插件：code-review、feature-dev、frontend-design、pr-review-toolkit、plugin-dev、security-guidance 等。
 - [Ralph Wiggum plugin](https://github.com/anthropics/claude-code/tree/main/plugins/ralph-wiggum) — 实现“Ralph Wiggum”循环的官方插件：通过 Stop 钩子反复投喂同一提示，让 Claude 持续迭代任务直到输出完成标记。
 - [Claude Code Marketplaces](https://claudemarketplaces.com) 🌐 — 独立的 Claude Code 插件市场目录，收录 2700 多个插件市场，并索引技能和 MCP 服务器。
+- [HOL Plugins](https://hol.org/plugins) 🌐 — AI 插件发现目录，收录适用于 Claude Code、Codex、Antigravity 等编程智能体的插件。
 
 <a id="claude-md"></a>
 ### CLAUDE.md、配置与模板

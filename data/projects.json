@@ -1510,6 +1510,20 @@
     ]
   },
   {
+    "name": "HOL Plugins",
+    "url": "https://hol.org/plugins",
+    "category": "plugins",
+    "type": "website",
+    "desc": {
+      "en": "Discovery directory for AI plugins across Claude Code, Codex, Antigravity and other coding agents.",
+      "zh": "AI 插件发现目录，收录适用于 Claude Code、Codex、Antigravity 等编程智能体的插件。"
+    },
+    "tags": [
+      "directory",
+      "plugins"
+    ]
+  },
+  {
     "name": "Build with Claude",
     "url": "https://github.com/davepoon/buildwithclaude",
     "category": "plugins",
