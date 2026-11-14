@@ -9,9 +9,9 @@
 # Awesome Claude Code
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Resources](https://img.shields.io/badge/resources-555-d97757?style=flat-square)](#contents)
+[![Resources](https://img.shields.io/badge/resources-556-d97757?style=flat-square)](#contents)
 [![Website](https://img.shields.io/badge/website-online-2ea44f?style=flat-square)](https://tomcatmew.github.io/awesome-Claude-code/)
-[![Updated](https://img.shields.io/badge/updated-2026--11--09-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
+[![Updated](https://img.shields.io/badge/updated-2026--11--14-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
 [![Stars](https://img.shields.io/github/stars/tomcatmew/awesome-Claude-code?style=flat-square&color=yellow)](https://github.com/tomcatmew/awesome-Claude-code/stargazers)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
 
@@ -26,7 +26,7 @@ If this list saves you time, a ⭐ helps other Claude Code users find it. Spotte
 
 </div>
 
-> **555** resources · **41** categories · **364** GitHub repos with **9.2M** total stars · updated **2026-11-09**
+> **556** resources · **41** categories · **364** GitHub repos with **9.2M** total stars · updated **2026-11-14**
 >
 > **Legend:** 🏆 top pick · ⭐ GitHub stars (refreshed weekly) · 🇨🇳 Chinese · 🇯🇵 Japanese · 🇰🇷 Korean · 🗄️ archived · 📘 docs · 📝 article · 🎓 course · 📺 video · 💬 community
 
@@ -54,8 +54,8 @@ New to Claude Code? These are the resources most people end up using.
 
 - 🏛️ [Official Resources](#official) <sub>36</sub>
   - [Official Repositories](#official-repos) <sub>13</sub> · [Official SDKs](#official-sdks) <sub>12</sub> · [Official Docs & Courses](#official-learning) <sub>11</sub>
-- 🧩 [Extending Claude Code](#extending) <sub>74</sub>
-  - [Agent Skills](#skills) <sub>23</sub> · [Subagents](#subagents) <sub>8</sub> · [Slash Commands](#commands) <sub>7</sub> · [Hooks](#hooks) <sub>13</sub> · [Plugins & Marketplaces](#plugins) <sub>11</sub> · [CLAUDE.md, Configs & Templates](#claude-md) <sub>12</sub>
+- 🧩 [Extending Claude Code](#extending) <sub>75</sub>
+  - [Agent Skills](#skills) <sub>23</sub> · [Subagents](#subagents) <sub>8</sub> · [Slash Commands](#commands) <sub>7</sub> · [Hooks](#hooks) <sub>13</sub> · [Plugins & Marketplaces](#plugins) <sub>12</sub> · [CLAUDE.md, Configs & Templates](#claude-md) <sub>12</sub>
 - 🧭 [Workflows & Orchestration](#workflows) <sub>64</sub>
   - [Frameworks & Methodologies](#frameworks) <sub>19</sub> · [Multi-Agent & Parallel Sessions](#orchestration) <sub>26</sub> · [Memory & Context](#memory-context) <sub>19</sub>
 - 🛠️ [Tooling](#tooling) <sub>79</sub>
@@ -232,6 +232,7 @@ _Drop-in content that teaches Claude Code new tricks: skills, subagents, slash c
 - [Claude Code demo plugins](https://github.com/anthropics/claude-code/tree/main/plugins) — Anthropic's example plugins in the Claude Code repo: code-review, feature-dev, frontend-design, pr-review-toolkit, plugin-dev, security-guidance and more.
 - [Ralph Wiggum plugin](https://github.com/anthropics/claude-code/tree/main/plugins/ralph-wiggum) — Official plugin for the 'Ralph Wiggum' loop: a Stop hook re-feeds the prompt so Claude iterates on a task until a completion promise.
 - [Claude Code Marketplaces](https://claudemarketplaces.com) 🌐 — Independent directory of 2,700+ Claude Code plugin marketplaces, plus indexed skills and MCP servers.
+- [HOL Plugins](https://hol.org/plugins) 🌐 — Discovery directory for AI plugins across Claude Code, Codex, Antigravity and other coding agents.
 
 <a id="claude-md"></a>
 ### CLAUDE.md, Configs & Templates
