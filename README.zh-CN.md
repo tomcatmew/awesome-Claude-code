@@ -9,9 +9,9 @@
 # Awesome Claude Code
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Resources](https://img.shields.io/badge/resources-555-d97757?style=flat-square)](#contents)
+[![Resources](https://img.shields.io/badge/resources-556-d97757?style=flat-square)](#contents)
 [![Website](https://img.shields.io/badge/website-online-2ea44f?style=flat-square)](https://tomcatmew.github.io/awesome-Claude-code/)
-[![Updated](https://img.shields.io/badge/updated-2026--11--16-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
+[![Updated](https://img.shields.io/badge/updated-2026--11--19-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
 [![Stars](https://img.shields.io/github/stars/tomcatmew/awesome-Claude-code?style=flat-square&color=yellow)](https://github.com/tomcatmew/awesome-Claude-code/stargazers)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
 
@@ -26,7 +26,7 @@
 
 </div>
 
-> 共 **555** 个资源 · **41** 个分类 · **364** 个 GitHub 仓库，合计 **9.3M** Star · 更新于 **2026-11-16**
+> 共 **556** 个资源 · **41** 个分类 · **365** 个 GitHub 仓库，合计 **9.3M** Star · 更新于 **2026-11-19**
 >
 > **图例：** 🏆 精选 · ⭐ GitHub Star（每周自动更新）· 🇨🇳 国人/中文 · 🇯🇵 日本 · 🇰🇷 韩国 · 🗄️ 已归档 · 📘 文档 · 📝 文章 · 🎓 课程 · 📺 视频 · 💬 社区
 
@@ -56,8 +56,8 @@
   - [官方仓库](#official-repos) <sub>13</sub> · [官方 SDK](#official-sdks) <sub>12</sub> · [官方文档与课程](#official-learning) <sub>11</sub>
 - 🧩 [扩展 Claude Code](#extending) <sub>74</sub>
   - [Agent Skills 技能](#skills) <sub>23</sub> · [子代理 Subagents](#subagents) <sub>8</sub> · [斜杠命令](#commands) <sub>7</sub> · [钩子 Hooks](#hooks) <sub>13</sub> · [插件与插件市场](#plugins) <sub>11</sub> · [CLAUDE.md、配置与模板](#claude-md) <sub>12</sub>
-- 🧭 [工作流与编排](#workflows) <sub>64</sub>
-  - [框架与方法论](#frameworks) <sub>19</sub> · [多代理与并行会话](#orchestration) <sub>26</sub> · [记忆与上下文](#memory-context) <sub>19</sub>
+- 🧭 [工作流与编排](#workflows) <sub>65</sub>
+  - [框架与方法论](#frameworks) <sub>19</sub> · [多代理与并行会话](#orchestration) <sub>27</sub> · [记忆与上下文](#memory-context) <sub>19</sub>
 - 🛠️ [工具链](#tooling) <sub>79</sub>
   - [用量与成本监控](#usage-monitoring) <sub>10</sub> · [状态栏 Statusline](#statusline) <sub>8</sub> · [图形界面、Web 与移动端](#gui-clients) <sub>10</sub> · [IDE 与编辑器集成](#ide) <sub>12</sub> · [模型路由与供应商切换](#routers-proxies) <sub>12</sub> · [沙箱与容器](#sandbox) <sub>9</sub> · [CI/CD 与 GitHub 自动化](#ci-cd) <sub>6</sub> · [日志、会话记录与可观测性](#observability) <sub>12</sub>
 - 🔌 [模型上下文协议 MCP](#mcp) <sub>81</sub>
@@ -316,6 +316,7 @@ _规模化使用 Claude Code 的方法论与运行器：规格驱动开发、并
 - [CLI Agent Orchestrator](https://github.com/awslabs/cli-agent-orchestrator) ⭐ 1.6k — AWS Labs 工具，以主管与工作者模式在隔离的 tmux 会话中协调 Claude Code、Kiro、Codex 等多个编程 CLI。
 - [CCManager](https://github.com/kbwo/ccmanager) 🇯🇵 ⭐ 1.3k — 会话管理器，可在多个 git worktree 间运行并切换 Claude Code、Gemini CLI 与 Codex CLI 会话。
 - [Conductor](https://www.conductor.build) 🌐 — Melty Labs 出品的 Mac 应用，可在隔离工作区中同时运行多个 Claude Code、Codex 与 Cursor 代理，并审阅、合并其成果。
+- [busyyaks](https://github.com/robertziel/busyyaks) — 自托管看板，在 tmux 中以负责人与工作者身份启动 Claude Code 会话，提供审阅关卡、CI 检查与 MCP 服务器。
 
 <a id="memory-context"></a>
 ### 记忆与上下文
