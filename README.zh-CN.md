@@ -9,9 +9,9 @@
 # Awesome Claude Code
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Resources](https://img.shields.io/badge/resources-555-d97757?style=flat-square)](#contents)
+[![Resources](https://img.shields.io/badge/resources-556-d97757?style=flat-square)](#contents)
 [![Website](https://img.shields.io/badge/website-online-2ea44f?style=flat-square)](https://tomcatmew.github.io/awesome-Claude-code/)
-[![Updated](https://img.shields.io/badge/updated-2026--11--16-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
+[![Updated](https://img.shields.io/badge/updated-2026--11--20-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
 [![Stars](https://img.shields.io/github/stars/tomcatmew/awesome-Claude-code?style=flat-square&color=yellow)](https://github.com/tomcatmew/awesome-Claude-code/stargazers)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
 
@@ -26,7 +26,7 @@
 
 </div>
 
-> 共 **555** 个资源 · **41** 个分类 · **364** 个 GitHub 仓库，合计 **9.3M** Star · 更新于 **2026-11-16**
+> 共 **556** 个资源 · **41** 个分类 · **364** 个 GitHub 仓库，合计 **9.3M** Star · 更新于 **2026-11-20**
 >
 > **图例：** 🏆 精选 · ⭐ GitHub Star（每周自动更新）· 🇨🇳 国人/中文 · 🇯🇵 日本 · 🇰🇷 韩国 · 🗄️ 已归档 · 📘 文档 · 📝 文章 · 🎓 课程 · 📺 视频 · 💬 社区
 
@@ -58,8 +58,8 @@
   - [Agent Skills 技能](#skills) <sub>23</sub> · [子代理 Subagents](#subagents) <sub>8</sub> · [斜杠命令](#commands) <sub>7</sub> · [钩子 Hooks](#hooks) <sub>13</sub> · [插件与插件市场](#plugins) <sub>11</sub> · [CLAUDE.md、配置与模板](#claude-md) <sub>12</sub>
 - 🧭 [工作流与编排](#workflows) <sub>64</sub>
   - [框架与方法论](#frameworks) <sub>19</sub> · [多代理与并行会话](#orchestration) <sub>26</sub> · [记忆与上下文](#memory-context) <sub>19</sub>
-- 🛠️ [工具链](#tooling) <sub>79</sub>
-  - [用量与成本监控](#usage-monitoring) <sub>10</sub> · [状态栏 Statusline](#statusline) <sub>8</sub> · [图形界面、Web 与移动端](#gui-clients) <sub>10</sub> · [IDE 与编辑器集成](#ide) <sub>12</sub> · [模型路由与供应商切换](#routers-proxies) <sub>12</sub> · [沙箱与容器](#sandbox) <sub>9</sub> · [CI/CD 与 GitHub 自动化](#ci-cd) <sub>6</sub> · [日志、会话记录与可观测性](#observability) <sub>12</sub>
+- 🛠️ [工具链](#tooling) <sub>80</sub>
+  - [用量与成本监控](#usage-monitoring) <sub>10</sub> · [状态栏 Statusline](#statusline) <sub>8</sub> · [图形界面、Web 与移动端](#gui-clients) <sub>10</sub> · [IDE 与编辑器集成](#ide) <sub>12</sub> · [模型路由与供应商切换](#routers-proxies) <sub>13</sub> · [沙箱与容器](#sandbox) <sub>9</sub> · [CI/CD 与 GitHub 自动化](#ci-cd) <sub>6</sub> · [日志、会话记录与可观测性](#observability) <sub>12</sub>
 - 🔌 [模型上下文协议 MCP](#mcp) <sub>81</sub>
   - [MCP 服务器](#mcp-servers) <sub>55</sub> · [MCP SDK 与开发工具](#mcp-dev) <sub>15</sub> · [MCP 目录与注册表](#mcp-directories) <sub>11</sub>
 - 🤖 [基于 Claude 构建](#building) <sub>73</sub>
@@ -432,6 +432,7 @@ _围绕 CLI 的周边工具：用量统计、状态栏、图形界面、编辑�
 - [OpenRouter: Claude Code Integration](https://openrouter.ai/docs/cookbook/coding-agents/claude-code-integration) 📘 — OpenRouter 指南：通过 ANTHROPIC_BASE_URL 将 Claude Code 接入 OpenRouter，以使用多种模型并获得服务商故障切换。
 - [Ollama: Claude Code](https://docs.ollama.com/integrations/claude-code) 📘 — Ollama 文档：通过 Ollama 的 Anthropic 兼容 API，让 Claude Code 使用本地模型或 Ollama 云端模型。
 - [Z.ai GLM Coding Plan for Claude Code](https://docs.z.ai/devpack/tool/claude) 📘 🇨🇳 — Z.ai（智谱）指南：通过其 Anthropic 兼容端点和 GLM Coding Plan 在 Claude Code 中使用 GLM 模型。
+- [AutoRouter](https://autorouter.com) 🌐 — Mac 应用，为 Claude Code 的模型选择器加入 20 多个模型，并为每一轮自动选择模型，优先使用你自己的 AI 订阅。
 
 <a id="sandbox"></a>
 ### 沙箱与容器
