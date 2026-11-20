@@ -9,9 +9,9 @@
 # Awesome Claude Code
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Resources](https://img.shields.io/badge/resources-555-d97757?style=flat-square)](#contents)
+[![Resources](https://img.shields.io/badge/resources-556-d97757?style=flat-square)](#contents)
 [![Website](https://img.shields.io/badge/website-online-2ea44f?style=flat-square)](https://tomcatmew.github.io/awesome-Claude-code/)
-[![Updated](https://img.shields.io/badge/updated-2026--11--16-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
+[![Updated](https://img.shields.io/badge/updated-2026--11--20-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
 [![Stars](https://img.shields.io/github/stars/tomcatmew/awesome-Claude-code?style=flat-square&color=yellow)](https://github.com/tomcatmew/awesome-Claude-code/stargazers)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
 
@@ -26,7 +26,7 @@ If this list saves you time, a ⭐ helps other Claude Code users find it. Spotte
 
 </div>
 
-> **555** resources · **41** categories · **364** GitHub repos with **9.3M** total stars · updated **2026-11-16**
+> **556** resources · **41** categories · **364** GitHub repos with **9.3M** total stars · updated **2026-11-20**
 >
 > **Legend:** 🏆 top pick · ⭐ GitHub stars (refreshed weekly) · 🇨🇳 Chinese · 🇯🇵 Japanese · 🇰🇷 Korean · 🗄️ archived · 📘 docs · 📝 article · 🎓 course · 📺 video · 💬 community
 
@@ -58,8 +58,8 @@ New to Claude Code? These are the resources most people end up using.
   - [Agent Skills](#skills) <sub>23</sub> · [Subagents](#subagents) <sub>8</sub> · [Slash Commands](#commands) <sub>7</sub> · [Hooks](#hooks) <sub>13</sub> · [Plugins & Marketplaces](#plugins) <sub>11</sub> · [CLAUDE.md, Configs & Templates](#claude-md) <sub>12</sub>
 - 🧭 [Workflows & Orchestration](#workflows) <sub>64</sub>
   - [Frameworks & Methodologies](#frameworks) <sub>19</sub> · [Multi-Agent & Parallel Sessions](#orchestration) <sub>26</sub> · [Memory & Context](#memory-context) <sub>19</sub>
-- 🛠️ [Tooling](#tooling) <sub>79</sub>
-  - [Usage & Cost Monitoring](#usage-monitoring) <sub>10</sub> · [Statuslines](#statusline) <sub>8</sub> · [GUI, Web & Mobile Clients](#gui-clients) <sub>10</sub> · [IDE & Editor Integrations](#ide) <sub>12</sub> · [Model Routers & Provider Switchers](#routers-proxies) <sub>12</sub> · [Sandboxing & Containers](#sandbox) <sub>9</sub> · [CI/CD & GitHub Automation](#ci-cd) <sub>6</sub> · [Logs, Transcripts & Observability](#observability) <sub>12</sub>
+- 🛠️ [Tooling](#tooling) <sub>80</sub>
+  - [Usage & Cost Monitoring](#usage-monitoring) <sub>10</sub> · [Statuslines](#statusline) <sub>8</sub> · [GUI, Web & Mobile Clients](#gui-clients) <sub>10</sub> · [IDE & Editor Integrations](#ide) <sub>12</sub> · [Model Routers & Provider Switchers](#routers-proxies) <sub>13</sub> · [Sandboxing & Containers](#sandbox) <sub>9</sub> · [CI/CD & GitHub Automation](#ci-cd) <sub>6</sub> · [Logs, Transcripts & Observability](#observability) <sub>12</sub>
 - 🔌 [Model Context Protocol (MCP)](#mcp) <sub>81</sub>
   - [MCP Servers](#mcp-servers) <sub>55</sub> · [MCP SDKs & Dev Tools](#mcp-dev) <sub>15</sub> · [MCP Directories & Registries](#mcp-directories) <sub>11</sub>
 - 🤖 [Building with Claude](#building) <sub>73</sub>
@@ -432,6 +432,7 @@ _Everything around the CLI: usage tracking, statuslines, GUIs, editor integratio
 - [OpenRouter: Claude Code Integration](https://openrouter.ai/docs/cookbook/coding-agents/claude-code-integration) 📘 — OpenRouter guide to pointing Claude Code at OpenRouter via ANTHROPIC_BASE_URL for access to many models with provider failover.
 - [Ollama: Claude Code](https://docs.ollama.com/integrations/claude-code) 📘 — Ollama documentation for running Claude Code against local or Ollama cloud models through Ollama's Anthropic-compatible API.
 - [Z.ai GLM Coding Plan for Claude Code](https://docs.z.ai/devpack/tool/claude) 📘 🇨🇳 — Z.ai guide to using GLM models in Claude Code through its Anthropic-compatible endpoint and the GLM Coding Plan.
+- [AutoRouter](https://autorouter.com) 🌐 — Mac app that adds 20+ models to Claude Code's model picker and picks one per turn, using your own AI subscriptions first.
 
 <a id="sandbox"></a>
 ### Sandboxing & Containers

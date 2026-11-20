@@ -3556,6 +3556,23 @@
     "region": "cn"
   },
   {
+    "name": "AutoRouter",
+    "url": "https://autorouter.com",
+    "category": "routers-proxies",
+    "type": "website",
+    "desc": {
+      "en": "Mac app that adds 20+ models to Claude Code's model picker and picks one per turn, using your own AI subscriptions first.",
+      "zh": "Mac 应用，为 Claude Code 的模型选择器加入 20 多个模型，并为每一轮自动选择模型，优先使用你自己的 AI 订阅。"
+    },
+    "tags": [
+      "router",
+      "multi-model",
+      "macos",
+      "subscriptions"
+    ],
+    "featured": false
+  },
+  {
     "name": "Container Use",
     "url": "https://github.com/dagger/container-use",
     "category": "sandbox",
