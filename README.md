@@ -9,9 +9,9 @@
 # Awesome Claude Code
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Resources](https://img.shields.io/badge/resources-555-d97757?style=flat-square)](#contents)
+[![Resources](https://img.shields.io/badge/resources-556-d97757?style=flat-square)](#contents)
 [![Website](https://img.shields.io/badge/website-online-2ea44f?style=flat-square)](https://tomcatmew.github.io/awesome-Claude-code/)
-[![Updated](https://img.shields.io/badge/updated-2026--11--23-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
+[![Updated](https://img.shields.io/badge/updated-2026--11--26-blue?style=flat-square)](https://github.com/tomcatmew/awesome-Claude-code/commits/main)
 [![Stars](https://img.shields.io/github/stars/tomcatmew/awesome-Claude-code?style=flat-square&color=yellow)](https://github.com/tomcatmew/awesome-Claude-code/stargazers)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
 
@@ -26,7 +26,7 @@ If this list saves you time, a ⭐ helps other Claude Code users find it. Spotte
 
 </div>
 
-> **555** resources · **41** categories · **364** GitHub repos with **9.4M** total stars · updated **2026-11-23**
+> **556** resources · **41** categories · **365** GitHub repos with **9.4M** total stars · updated **2026-11-26**
 >
 > **Legend:** 🏆 top pick · ⭐ GitHub stars (refreshed weekly) · 🇨🇳 Chinese · 🇯🇵 Japanese · 🇰🇷 Korean · 🗄️ archived · 📘 docs · 📝 article · 🎓 course · 📺 video · 💬 community
 
@@ -56,8 +56,8 @@ New to Claude Code? These are the resources most people end up using.
   - [Official Repositories](#official-repos) <sub>13</sub> · [Official SDKs](#official-sdks) <sub>12</sub> · [Official Docs & Courses](#official-learning) <sub>11</sub>
 - 🧩 [Extending Claude Code](#extending) <sub>74</sub>
   - [Agent Skills](#skills) <sub>23</sub> · [Subagents](#subagents) <sub>8</sub> · [Slash Commands](#commands) <sub>7</sub> · [Hooks](#hooks) <sub>13</sub> · [Plugins & Marketplaces](#plugins) <sub>11</sub> · [CLAUDE.md, Configs & Templates](#claude-md) <sub>12</sub>
-- 🧭 [Workflows & Orchestration](#workflows) <sub>64</sub>
-  - [Frameworks & Methodologies](#frameworks) <sub>19</sub> · [Multi-Agent & Parallel Sessions](#orchestration) <sub>26</sub> · [Memory & Context](#memory-context) <sub>19</sub>
+- 🧭 [Workflows & Orchestration](#workflows) <sub>65</sub>
+  - [Frameworks & Methodologies](#frameworks) <sub>19</sub> · [Multi-Agent & Parallel Sessions](#orchestration) <sub>27</sub> · [Memory & Context](#memory-context) <sub>19</sub>
 - 🛠️ [Tooling](#tooling) <sub>79</sub>
   - [Usage & Cost Monitoring](#usage-monitoring) <sub>10</sub> · [Statuslines](#statusline) <sub>8</sub> · [GUI, Web & Mobile Clients](#gui-clients) <sub>10</sub> · [IDE & Editor Integrations](#ide) <sub>12</sub> · [Model Routers & Provider Switchers](#routers-proxies) <sub>12</sub> · [Sandboxing & Containers](#sandbox) <sub>9</sub> · [CI/CD & GitHub Automation](#ci-cd) <sub>6</sub> · [Logs, Transcripts & Observability](#observability) <sub>12</sub>
 - 🔌 [Model Context Protocol (MCP)](#mcp) <sub>81</sub>
@@ -316,6 +316,7 @@ _Methodologies and runners for working with Claude Code at scale: spec-driven de
 - [CLI Agent Orchestrator](https://github.com/awslabs/cli-agent-orchestrator) ⭐ 1.6k — AWS Labs tool coordinating multiple coding CLIs such as Claude Code, Kiro and Codex as supervisor and workers in isolated tmux sessions.
 - [CCManager](https://github.com/kbwo/ccmanager) 🇯🇵 ⭐ 1.3k — Session manager for running and switching between multiple Claude Code, Gemini CLI and Codex CLI sessions across git worktrees.
 - [Conductor](https://www.conductor.build) 🌐 — Mac app from Melty Labs for running several Claude Code, Codex and Cursor agents at once in isolated workspaces, with review and merge.
+- [busyyaks](https://github.com/robertziel/busyyaks) — Self-hosted kanban board that launches Claude Code sessions in tmux as a lead and workers, with review gates, CI checks and an MCP server.
 
 <a id="memory-context"></a>
 ### Memory & Context

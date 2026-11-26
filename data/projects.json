@@ -2413,6 +2413,23 @@
     "region": "cn"
   },
   {
+    "name": "busyyaks",
+    "url": "https://github.com/robertziel/busyyaks",
+    "category": "orchestration",
+    "type": "repo",
+    "desc": {
+      "en": "Self-hosted kanban board that launches Claude Code sessions in tmux as a lead and workers, with review gates, CI checks and an MCP server.",
+      "zh": "自托管看板，在 tmux 中以负责人与工作者身份启动 Claude Code 会话，提供审阅关卡、CI 检查与 MCP 服务器。"
+    },
+    "tags": [
+      "kanban",
+      "tmux",
+      "self-hosted",
+      "mcp"
+    ],
+    "featured": false
+  },
+  {
     "name": "claude-mem",
     "url": "https://github.com/thedotmack/claude-mem",
     "category": "memory-context",
